@@ -1,0 +1,5 @@
+https://www.hetzner.com/legal/privacy-policy/
+https://www.hetzner.com/legal/terms-and-conditions/
+https://docs.hetzner.com/general/others/technical-and-organizational-measures
+# https://www.hetzner.com/AV/DPA_en.pdf
+https://www.hetzner.com/legal/cloud-server/

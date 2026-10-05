@@ -1,0 +1,39 @@
+{
+  "objectives": [
+    {
+      "title": "Data Protection by Design Safeguards",
+      "description": "The contract contains writings regarding technical and organisational measures integrated into system architecture and processing operations.",
+      "criteria": [
+        "Specifications regarding pseudonymisation capabilities.",
+        "Provisions regarding data minimisation mechanisms.",
+        "Clauses addressing state-of-the-art security implementation.",
+        "Requirements for integrating safeguards into processing workflows.",
+        "Application of design safeguards both when determining the means of processing and throughout the processing itself."
+      ],
+      "source_ref": "Article 25(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Protection by Default Settings",
+      "description": "The contract contains writings regarding baseline system settings restricting personal data usage.",
+      "criteria": [
+        "Default limitations on personal data collection volumes.",
+        "Default restrictions on the scope of data processing.",
+        "Automatic limits on data storage duration.",
+        "Default settings preventing public accessibility of personal data."
+      ],
+      "source_ref": "Article 25(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Compliance Certification Alignment",
+      "description": "The contract contains writings regarding an approved Article 42 certification mechanism used as evidence of data-protection-by-design-and-default compliance.",
+      "criteria": [
+        "References to an approved certification mechanism pursuant to Article 42.",
+        "The certification is cited specifically as evidence of compliance with the by-design and by-default obligations of paragraphs 1 and 2."
+      ],
+      "source_ref": "Article 25(3)",
+      "regulation": "GDPR"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+reviews.db
+*.building
+
+__pycache__/
+.DS_Store
+
+.env
+
+tests/

@@ -1,0 +1,62 @@
+{
+  "objectives": [
+    {
+      "title": "Special Category Data Processing Restrictions",
+      "description": "The contract contains writings regarding prohibitions on processing special categories of personal data.",
+      "criteria": [
+        "Clauses identifying restrictions on processing data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership.",
+        "Clauses identifying restrictions on processing genetic data.",
+        "Clauses identifying restrictions on processing biometric data used for unique identification.",
+        "Clauses identifying restrictions on processing health data.",
+        "Clauses identifying restrictions on processing data concerning sex life or sexual orientation."
+      ],
+      "source_ref": "Article 9(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Explicit Consent Verification for Sensitive Data",
+      "description": "The contract contains writings regarding explicit consent mechanisms for sensitive data processing.",
+      "criteria": [
+        "Provisions verifying customer acquisition of explicit data subject consent.",
+        "Mechanisms recording specific purposes for processing sensitive data.",
+        "Clauses acknowledging that applicable Union or Member State law may bar explicit consent from lifting the special category processing prohibition."
+      ],
+      "source_ref": "Article 9(2)(a)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Professional Secrecy Safeguards",
+      "description": "The contract contains writings regarding professional secrecy duties applicable to personnel handling sensitive health information.",
+      "criteria": [
+        "Contractual secrecy commitments binding cloud provider personnel.",
+        "Statutory professional secrecy governance clauses.",
+        "Duty of confidentiality declarations for medical data handlers."
+      ],
+      "source_ref": "Article 9(3)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Jurisdictional Sensitive Data Limitations",
+      "description": "The contract contains writings regarding national law limitations on sensitive data.",
+      "criteria": [
+        "Provisions addressing national statutory restrictions on genetic data.",
+        "Provisions addressing national statutory restrictions on biometric data.",
+        "Provisions addressing national statutory restrictions on health data."
+      ],
+      "source_ref": "Article 9(4)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Special Category Lawful Basis Identification",
+      "description": "The contract contains writings identifying legal bases, other than explicit consent, that permit processing special categories of personal data.",
+      "criteria": [
+        "Provisions identifying employment, social security, or social protection law as the basis for processing special category data.",
+        "Provisions identifying preventive or occupational medicine, medical diagnosis, or health or social care purposes as the basis for processing special category data.",
+        "Provisions identifying substantial public interest or public health grounds as the basis for processing special category data.",
+        "Provisions identifying archiving, scientific, historical research, or statistical purposes as the basis for processing special category data."
+      ],
+      "source_ref": "Article 9(2)(b)-(j)",
+      "regulation": "GDPR"
+    }
+  ]
+}

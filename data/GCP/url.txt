@@ -1,0 +1,6 @@
+https://cloud.google.com/terms/
+https://cloud.google.com/terms/aup
+https://cloud.google.com/terms/data-processing-addendum
+https://cloud.google.com/terms/cloud-privacy-notice
+https://cloud.google.com/terms/subprocessors
+https://cloud.google.com/terms/service-terms

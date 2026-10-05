@@ -1,0 +1,95 @@
+{
+  "objectives": [
+    {
+      "title": "Access Request Processing",
+      "description": "Contractual writings address subject requests to access personal data.",
+      "criteria": [
+        "Procedures confirming active personal data processing.",
+        "Clauses granting access to personal data undergoing processing.",
+        "Specifications stating processing purposes.",
+        "Documentation listing processed personal data categories."
+      ],
+      "source_ref": "Article 15(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Recipient Disclosure Transparency",
+      "description": "Contractual terms document personal data recipients.",
+      "criteria": [
+        "Listings identifying personal data recipients.",
+        "Specifications identifying recipient categories.",
+        "Identification of third-country destinations.",
+        "Identification of international entity recipients."
+      ],
+      "source_ref": "Article 15(1)(c)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Retention Period Documentation",
+      "description": "Contractual clauses specify personal data storage duration.",
+      "criteria": [
+        "Stated personal data retention durations.",
+        "Established criteria fixing storage time limits when a fixed duration cannot be stated."
+      ],
+      "source_ref": "Article 15(1)(d)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "International Transfer Safeguards",
+      "description": "Contractual clauses govern international transfer protection disclosures.",
+      "criteria": [
+        "Disclosures detailing third country transfer safeguards.",
+        "Disclosures detailing international entity transfer safeguards.",
+        "Identification of the specific Article 46 transfer mechanism relied upon (e.g. standard contractual clauses, binding corporate rules)."
+      ],
+      "source_ref": "Article 15(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Copy Delivery Terms",
+      "description": "Contractual terms govern personal data copy provision and related safeguards.",
+      "criteria": [
+        "Procedures delivering the initial personal data copy.",
+        "Administrative fees charged for supplementary copies.",
+        "Delivery utilizing commonly used electronic formats.",
+        "Safeguards ensuring copy provision does not adversely affect the rights and freedoms of other individuals."
+      ],
+      "source_ref": "Article 15(3)-(4)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Subject Rights Notice",
+      "description": "Contractual writings address disclosure of related data subject rights within an access response.",
+      "criteria": [
+        "Notice of the right to request rectification of personal data.",
+        "Notice of the right to request erasure of personal data or restriction of its processing.",
+        "Notice of the right to object to processing of personal data.",
+        "Notice of the right to lodge a complaint with a supervisory authority."
+      ],
+      "source_ref": "Article 15(1)(e)-(f)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Source Disclosure",
+      "description": "Contractual writings address disclosure of the origin of personal data not collected from the data subject.",
+      "criteria": [
+        "Disclosure of the source of personal data when not collected directly from the data subject.",
+        "Identification of the specific source or category of source from which the personal data originated."
+      ],
+      "source_ref": "Article 15(1)(g)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Automated Decision-Making Disclosure",
+      "description": "Contractual writings address disclosure of automated decision-making and profiling in response to access requests.",
+      "criteria": [
+        "Disclosure of the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4).",
+        "Provision of meaningful information about the logic involved in such automated decision-making.",
+        "Disclosure of the significance of such processing for the data subject.",
+        "Disclosure of the envisaged consequences of such processing for the data subject."
+      ],
+      "source_ref": "Article 15(1)(h)",
+      "regulation": "GDPR"
+    }
+  ]
+}

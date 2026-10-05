@@ -1,0 +1,67 @@
+{
+  "objectives": [
+    {
+      "title": "Processor Identity Recordkeeping",
+      "description": "The contract contains provisions regarding identification details maintained within processing logs.",
+      "criteria": [
+        "Documentation specifying processor identity details.",
+        "Documentation specifying controller contact details.",
+        "Documentation identifying designated data protection officers.",
+        "Identification of the controller's or processor's representative, where applicable."
+      ],
+      "source_ref": "Article 30(2)(a)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Processing Category Documentation",
+      "description": "The contract contains provisions regarding tracking operations performed on customer data.",
+      "criteria": [
+        "Specification of the categories of processing carried out on behalf of the controller.",
+        "Attribution of the documented processing categories to the specific controller for whom they are carried out."
+      ],
+      "source_ref": "Article 30(2)(b)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Cross-Border Transfer Documentation",
+      "description": "The contract contains provisions regarding recording extraterritorial personal data transmissions.",
+      "criteria": [
+        "Identification of destination third countries.",
+        "Identification of recipient international entities.",
+        "Documentation of suitable transfer safeguards."
+      ],
+      "source_ref": "Article 30(2)(c)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Technical Security Documentation",
+      "description": "The contract contains provisions regarding descriptive logs of implemented safeguard measures.",
+      "criteria": [
+        "Descriptive logs of implemented technical security measures.",
+        "Descriptive logs of implemented organisational security measures."
+      ],
+      "source_ref": "Article 30(2)(d)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Record Medium Specifications",
+      "description": "The contract contains provisions regarding the medium used for maintaining processing activity logs.",
+      "criteria": [
+        "Maintenance of activity records in written format.",
+        "Recognition of electronic form as satisfying the written-record requirement."
+      ],
+      "source_ref": "Article 30(3)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Supervisory Authority Record Production",
+      "description": "The contract contains provisions regarding delivering activity records to regulatory bodies.",
+      "criteria": [
+        "Obligation to make processing records available to the supervisory authority upon request.",
+        "Extension of the record-availability obligation to the controller's or processor's representative, where applicable."
+      ],
+      "source_ref": "Article 30(4)",
+      "regulation": "GDPR"
+    }
+  ]
+}

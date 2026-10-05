@@ -1,0 +1,73 @@
+{
+  "objectives": [
+    {
+      "title": "Consent-Based Transfer Derogations",
+      "description": "The contract contains provisions regarding international transfers executing under explicit data subject consent.",
+      "criteria": [
+        "Provisions addressing explicit data subject consent for specific transfers.",
+        "Clauses requiring communication of risks stemming from lacking adequacy decisions.",
+        "Clauses requiring communication of risks stemming from missing safeguards."
+      ],
+      "source_ref": "Article 49(1)(a)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Contract Performance Derogations",
+      "description": "The contract contains provisions governing international transfers strictly necessary for contractual execution.",
+      "criteria": [
+        "Provisions addressing transfers necessary for performing contracts with data subjects.",
+        "Provisions addressing transfers executing pre-contractual measures requested by data subjects.",
+        "Provisions addressing transfers executing third-party contracts concluded in data subjects' interests."
+      ],
+      "source_ref": "Article 49(1)(b)-(c)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Other Statutory Transfer Derogations",
+      "description": "The contract contains provisions invoking other statutory derogations for international transfers absent adequacy or safeguards.",
+      "criteria": [
+        "Provisions addressing transfers necessary for important reasons of public interest.",
+        "Provisions addressing transfers necessary for the establishment, exercise or defence of legal claims.",
+        "Provisions addressing transfers necessary to protect the vital interests of the data subject or other persons unable to consent.",
+        "Provisions addressing transfers made from a public register open to consultation."
+      ],
+      "source_ref": "Article 49(1)(d)-(g)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Legitimate Interest Transfer Exceptions",
+      "description": "The contract contains provisions governing exceptional non-repetitive transfers based on compelling legitimate interests.",
+      "criteria": [
+        "Clauses restricting qualifying transfers to non-repetitive occurrences.",
+        "Clauses limiting qualifying transfers to limited numbers of data subjects.",
+        "Clauses confirming compelling legitimate interests are not overridden by the data subject's interests, rights or freedoms.",
+        "Terms requiring controller assessment of transfer circumstances.",
+        "Provisions requiring suitable safeguards for transferred personal data."
+      ],
+      "source_ref": "Article 49(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Derogation Transfer Notifications",
+      "description": "The contract contains terms regarding notification protocols for exceptional legitimate interest transfers.",
+      "criteria": [
+        "Clauses requiring controller notification to supervisory authorities concerning exceptional transfers.",
+        "Clauses requiring controller notification to affected data subjects concerning exceptional transfers.",
+        "Clauses requiring notification of specific compelling legitimate interests pursued."
+      ],
+      "source_ref": "Article 49(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Transfer Derogation Documentation",
+      "description": "The contract contains specifications regarding documentation of transfer derogation assessments.",
+      "criteria": [
+        "Terms requiring written records of transfer circumstance assessments.",
+        "Terms requiring written records of implemented suitable transfer safeguards.",
+        "Clauses requiring derogation records inclusion within Article 30 registers."
+      ],
+      "source_ref": "Article 49(6)",
+      "regulation": "GDPR"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "objectives": [
+    {
+      "title": "Group Entity Identification",
+      "description": "The contract defines structural specifications for the corporate group.",
+      "criteria": [
+        "Provisions specifying the corporate group structure.",
+        "Provisions detailing contact information for each group member.",
+        "Provisions identifying individual entities bound by the rules."
+      ],
+      "source_ref": "Article 47(2)(a)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Transfer Scope Specifications",
+      "description": "The contract details the scope of international data transfers.",
+      "criteria": [
+        "Specifications of personal data categories transferred.",
+        "Specifications of processing purposes.",
+        "Identification of affected recipient third countries.",
+        "Identification of affected data subject types."
+      ],
+      "source_ref": "Article 47(2)(b)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Intra-Group Liability Allocation",
+      "description": "The contract assigns liability for non-EU member rule breaches.",
+      "criteria": [
+        "Provisions establishing liability for EU-established entities.",
+        "Provisions covering damages caused by non-EU group members.",
+        "Provisions outlining conditions for liability exemption."
+      ],
+      "source_ref": "Article 47(2)(f)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Compliance Auditing Mechanisms",
+      "description": "The contract details mechanisms to verify adherence to binding rules.",
+      "criteria": [
+        "Provisions mandating periodic data protection audits.",
+        "Provisions requiring corrective action plans for detected issues.",
+        "Provisions ensuring audit results are made available to the competent supervisory authority upon request."
+      ],
+      "source_ref": "Article 47(2)(j)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Foreign Legal Conflict Notifications",
+      "description": "The contract specifies notification mechanisms for foreign legal mandates.",
+      "criteria": [
+        "Provisions requiring identification of third-country legal requirements likely to have a substantial adverse effect on the guarantees provided by the binding corporate rules.",
+        "Provisions establishing a mechanism for reporting such legal requirements to the competent supervisory authority."
+      ],
+      "source_ref": "Article 47(2)(m)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Enforceable Data Subject Rights and Redress",
+      "description": "The contract establishes data subjects' enforceable rights and redress mechanisms under the binding corporate rules.",
+      "criteria": [
+        "Provisions expressly conferring enforceable rights on data subjects with regard to processing under the binding corporate rules.",
+        "Provisions enabling data subjects to lodge complaints with the competent supervisory authority or before competent courts for breaches of the binding corporate rules.",
+        "Provisions establishing data subjects' right to redress and, where appropriate, compensation for damage caused by a breach of the binding corporate rules."
+      ],
+      "source_ref": "Article 47(2)(e)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Personnel Data Protection Training",
+      "description": "The contract requires data protection training for personnel with access to personal data.",
+      "criteria": [
+        "Provisions requiring data protection training for personnel with permanent access to personal data.",
+        "Provisions requiring data protection training for personnel with regular access to personal data.",
+        "Provisions requiring the training to be appropriate to personnel's role and level of data access."
+      ],
+      "source_ref": "Article 47(2)(n)",
+      "regulation": "GDPR"
+    }
+  ]
+}

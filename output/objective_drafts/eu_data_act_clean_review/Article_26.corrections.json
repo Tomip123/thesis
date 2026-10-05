@@ -1,0 +1,30 @@
+{
+  "objectives": [
+    {
+      "title": "Inbound Switching Information",
+      "description": "The documentation contains information regarding switching and porting to the provider, including known restrictions and technical limitations.",
+      "criteria": [
+        "Information on available switching and porting methods.",
+        "Information on available switching and porting formats.",
+        "Information on restrictions known to the provider that affect switching and porting.",
+        "Information on technical limitations known to the provider that affect switching and porting."
+      ],
+      "source_ref": "Article 26(a)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Exportable Data Online Register",
+      "description": "The documentation references an online register detailing data export specifications.",
+      "criteria": [
+        "A reference to a provider-hosted online register.",
+        "A requirement that the online register remains up-to-date.",
+        "Details of available data structures for exportable data.",
+        "Details of available data formats for exportable data.",
+        "Details of relevant standards for exportable data.",
+        "Details of relevant open interoperability specifications for exportable data."
+      ],
+      "source_ref": "Article 26(b)",
+      "regulation": "EU Data Act"
+    }
+  ]
+}

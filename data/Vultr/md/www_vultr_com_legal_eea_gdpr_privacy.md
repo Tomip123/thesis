@@ -1,0 +1,285 @@
+# Legal
+
+- [Terms Of Service](/legal/tos)
+- [SMS](/legal/sms)
+- [Privacy](/legal/privacy)
+- [US Privacy](/legal/us-privacy)
+- [EEA/GDPR](/legal/eea-gdpr-privacy)
+- [Subprocessors](/legal/subprocessors)
+- [India Privacy](/legal/india-privacy)
+- [Acceptable Use](/legal/use-policy)
+- [Anti-Spam](/legal/antispam-policy)
+- [Cookies](/legal/cookie-policy)
+- [Partner Program](/legal/partner-program)
+- [SLA](/legal/sla)
+- [Copyright](/legal/copyright)
+- [Marketplace](/legal/marketplace)
+- [NVIDIA Licenses](/legal/nvidia)
+
+Last Modified: September 26, 2021
+
+## General Data Protection Regulation (GDPR)
+
+The Constant Company, LLC (Vultr, we, us) believes it is important that you understand how Vultr collects, stores, shares and uses information from and about our Site visitors, subscribers, customers and vendors.
+
+### GDPR (EU including UK and Switzerland).
+
+This EU/UK GDPR Privacy Notice (Notice), our cookie policy and other legal notices posted on this website www.vultr.com (Site), describes our collection, use and disclosure of personal data.
+
+(i) collected through the Site, or
+
+(ii) when you subscribe to, or otherwise use our online services (Services), or
+
+(iii) in the course of our business activities conducted elsewhere, whenever we act as the controller of that data and when its processing is governed by EU General Data Protection Regulation or the UK General Data Protection Regulation (together, the "GDPR").
+
+This Notice does not apply to the information collected, stored, shared, or distributed by third-party sites. This Notice may be updated from time to time.
+
+For the purposes of applicable data protection law, Vultr is the controller of any personal data collected from you on the Site, through the Services, or otherwise for the purpose of conducting or developing our business with customers and vendors. For the purposes of this Notice, personal data means any information relating to an identified or identifiable person.
+
+## 1. Information We Collect Automatically
+
+When you visit our Site, or use our Services, our server automatically collects certain browser or device generated information, including but not limited to:
+
+- your domain;
+- your IP address;
+- your date, time and duration of your visit;
+- your browser type;
+- your operating system;
+- your page visits;
+- information from third parties;
+- other information about your computer or device;
+- Internet traffic.
+
+In some cases this information constitutes personal data, We do not use this automatically collected information to try to identify you by name, and we do not associate it with the information you provide voluntarily, as detailed below.
+
+## 2. Information You Provide
+
+In order to access or use certain portions of the Site or Services, or enjoy the full functionality of the Site or Services, or otherwise in conducting business with us or seeking to conduct business with us, you may be prompted to provide certain personal data to us in the following ways:
+
+- Persons who subscribe to our Services will be prompted to provide their name, their address, their e-mail, their phone number, and any other necessary billing information.
+- Persons who complete registration forms to sign up for membership on our Site will be prompted to provide their e-mail address.
+- Site visitors, and prospective and current suppliers and subscribers, may provide personal data when filling in forms (for example, a 'Contact us' form) on our Site or at a trade show or anywhere else we conduct business; by downloading documentation from our Site; by subscribing to newsletters or other communications; by corresponding with us by phone, e-mail or otherwise providing contact details. In these cases, typically, the personal data you give us may include name, business affiliation, business address, telephone number, and email address, and any personal details required to resolve any inquiries or complaints.
+
+This personal data is required to enter into a contract with you (such as in anticipation of a supply agreement, or to learn about our Services) or to perform a contract with you (such as to provide Services), and failure to provide any information may result in our inability to provide requested Services or products.
+
+## 3. Information From Other Sources
+
+We may also obtain fraud &amp; risk scoring data about you from third parties, namely MaxMind and Kount.
+
+## 4. Cookies
+
+Our Site uses cookies. More information about our use of cookies can be found in our cookie policy [https://www.vultr.com/legal/cookie-policy/](https://www.vultr.com/legal/cookie-policy/) .
+
+## 5. Use of Personal Data
+
+The following is an overview of our purposes for using your personal data. Additional details on how we process your personal data may be provided to you in a separate notice or contract.
+
+All processing and use of your personal data is justified by a "condition" for processing. In the majority of cases, processing will be justified on the basis that:
+
+- the processing is necessary to perform a contract with you (such as if you subscribe to our Services) or take steps to enter into a contract at your request (such as to fill an order), or to provide product information you have requested;
+- the processing is necessary for us to comply with a relevant legal obligation, such as keeping accounting records;
+- the processing is in our legitimate interests, which are not overridden by your interests and fundamental rights. Our legitimate interests are to use subscriber, Site user, supplier and customer data to conduct and develop our business activities with them and with others while limiting the use of their personal data to purposes that support the conduct and development of our business; or
+- you have consented to the processing.
+
+We use the personal data we collect to:
+
+- provide you with Services you have subscribed for, or otherwise requested;
+- provide you with documentation or communications which you have requested;
+- administer and manage performance of purchase or sales agreements with our suppliers and customers;
+- provide after-sales support;
+- correspond with users to resolve their queries or complaints;
+- market our services to persons whose Services have expired or otherwise been cancelled;
+- engage you about events, promotions, the Site and Vultr's products and services;
+- process, evaluate and complete certain transactions involving the Site, and more generally transactions involving Vultr's products and services;
+- operate, evaluate, maintain, improve and develop the Site (including by monitoring and analysing trends, access to, and use of the Site for advertising and marketing);
+- to increase your (and other users') experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes.
+- protect and ensure safety of the Site, Vultr confidential and proprietary information, and Vultr employees;
+- manage, protect against and investigate fraud, risk exposure, claims and other liabilities, including but not limited to violation of our contract terms or laws or regulations;
+
+We also use non-personal data and aggregate information, such as that collected automatically, to customize our marketing efforts or to customize the use of our site for an aggregate group of customers.
+
+Vultr will not sell or rent your personal data to third parties.
+
+## 6. Disclosure of Personal Data
+
+We may disclose personal data about Site visitors, users of our Services, or our suppliers or customers if, in our sole discretion, we believe that it is reasonable to do so, including:
+
+- To satisfy any laws, regulations, or governmental or legal requests for such data;
+- To disclose personal data that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or other user policies;
+- To protect ourselves, our subscribers, and the general public. We may, where appropriate or required, disclose information (including personal data) to law enforcement in the event that a crime is committed, is suspected, or if we are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+- To cooperate, where required, with law enforcement authorities, private-party litigants, and others seeking information about our end users to the extent required by applicable law. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process.
+- Share your personal data with third parties in connection with potential or actual sale of our company or any of our assets, or those of any affiliated company, in which case personal data held by us about our users may be one of the transferred assets;
+
+## 7. Transfer of Personal Data
+
+If you are in the UK or the European Economic Area ("EEA") (including the European Union ("EU")) and your personal data is transferred outside the UK or outside of the EEA (as applicable) to other Vultr affiliates or to third party service providers, we will take steps to ensure that your personal data receives the same level of protection as if it remained within the UK or EEA (as applicable).
+
+- If we transfer UK data to the EEA, this is covered by the UK's decision that EEA countries provide adequate protection for personal data.
+- If we transfer EEA data to the UK, this is covered by the EC decision that the UK provides adequate protection for personal data.
+- If we transfer UK or EEA data to other countries (including the United States of America), not subject to an equivalent legal adequacy decision, we will take steps to protect your personal data to the same degree. This may include entering into data transfer agreements using any applicable, valid standard contractual clauses ("SCCs") with our suppliers and other business partners and in taking any appropriate supplementary safeguards. We currently rely on SCCs for our transfers to the USA, *[including to our group companies]* .
+
+You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EEA or UK by contacting legal@vultr.com.
+
+Vultrreserves the right to share any information that you provide which is not deemed personal data or is not otherwise subject to contractual restrictions.
+
+## 8. Children
+
+The Site is not for use by children under the age of 16 years and Vultr does not knowingly collect, store, share or use the personal data of children under 16 years. If you are under the age of 16 years, please do not provide any personal data, even if prompted by the Site to do so. If you are under the age of 16 years and you have provided personal data, please ask your parent(s) or guardian(s) to notify Vultr and Vultr will delete all such personal data.
+
+## 9. Marketing emails
+
+Where lawful to do so, and subject to your consent where required, we may communicate with you by e-mail to tell you about our products and services. If you wish to opt-out of receiving marketing communications, please use the 'unsubscribe' link provided in our emails.
+
+If you are a subscriber to our Services, we may send you periodic announcements including the details of our existing and new programs. You may opt out of these announcements by filling out the form at [https://www.vultr.com/unsubscribe/](https://www.vultr.com/unsubscribe/) or by clicking the opt-out link at the bottom of these emails. If you opt out of these marketing emails, you may still receive system notices and other information that is specifically related to your subscription account.
+
+## 10. Security
+
+We take measures, including data encryption, to protect the transmission of all sensitive end-user information. We make reasonable efforts to ensure the integrity and security of our network and systems. Nevertheless, we cannot guarantee that our security measures will prevent third-party 'hackers' from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals we are unable to guarantee that our security is 100% breach-proof. You assume the risk of such breaches to the extent that they occur despite our reasonable security measures.
+
+## 11. Retention of Your Personal Data
+
+We apply a general rule of keeping personal data only for as long as required to fulfil the purposes for which it was collected. In general, we retain your personal data for a period of time corresponding to a statute of limitation, for example to maintain an accurate record of your dealings with us. However, in some circumstances we may retain personal data for other periods of time, for instance where we are required to do so in accordance with legal, tax and accounting requirements, or if required to do so by a legal process, legal authority, or other governmental entity having authority to make the request, for so long as required.
+
+With respect to marketing, we retain your personal data for 18 months after your last request for service or other contact you initiate.
+
+## 12. External Links
+
+The Site may contain links to third party sites. Since Vultr does not control nor is responsible for the privacy practices of those Sites, we encourage you to review the privacy policies of these third party sites. This Notice applies solely to personal data collected by our Sites or in the course of our business activities.
+
+## 13. Your Rights
+
+- Right to withdraw consent - where applicable, you have the right to withdraw your consent at any time. For example, if you wish to opt-out of receiving electronic marketing communications, you can change your settings in your account on the Site, use the 'unsubscribe' link provided in our emails or otherwise contact us directly and we will stop sending you communications.
+- Right of access, rectification and erasure - you have the right to request access to and obtain a copy of any of your personal data that we may hold, to request correction of any inaccurate data relating to you and to request the deletion of your personal data under certain circumstances. You can see and update most of this data yourself online, or by contacting us directly at [https://www.vultr.com/contact/](https://www.vultr.com/contact/)
+- Data portability - where we are relying (as the legal basis for processing) upon your consent, or the fact that the processing is necessary to perform a contract to which you are party or to take steps at your request prior to entering a contract, and the personal data is processed by automatic means, you have the right to receive all such personal data which you have provided us in a structured, commonly used and machine-readable format, and also to require us to transmit it to another controller where this is technically feasible.
+- Right to restriction of processing - you have the right to restrict our processing of your personal data (that is, allow only its storage) where:
+    - you contest the accuracy of the personal data, until we have taken sufficient steps to correct or verify its accuracy;
+    - where the processing is unlawful but you do not want us to erase the personal data;
+    - where we no longer need your personal data for the purposes of the processing, but you require such personal data for the establishment, exercise or defence of legal claims; or
+    - where you have objected to processing justified on legitimate interest grounds (see below), pending verification as to whether we have compelling legitimate grounds to continue processing.
+- Where your personal data is subject to restriction we will only process it with your consent or for the establishment, exercise or defence of legal claims.
+- You also have the right to lodge a complaint with the supervisory authority of your habitual residence, place of work or place of alleged infringement, if you consider that the processing of your personal data infringes applicable law.
+- Right to object to processing (including profiling) based on legitimate interest grounds - where we are relying upon legitimate interests to process personal data, you have the right to object to that processing. If you object, we must stop that processing unless we can demonstrate compelling legitimate grounds for the processing that override your interests, rights and freedoms, or we need to process the personal data for the establishment, exercise or defence of legal claims. Where we rely upon legitimate interest as a basis for processing we believe that we can demonstrate such compelling legitimate grounds, but we will consider each case on an individual basis.
+- Right to object to direct marketing (including profiling) - you have the right to object to our use of your personal data (including profiling) for direct marketing purposes, such as when we use your personal data to invite you to our promotional events.
+
+Please contact us as indicated in Contact Information [https://www.vultr.com/contact/](https://www.vultr.com/contact/) if you wish to exercise any of your rights, or if you have any inquiries or complaints regarding the processing of your personal data.
+
+## 14. Changes to this Notice
+
+We reserve the right to revise, amend, or modify this Notice and our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Notice by re-visiting this web page and using the 'refresh' button on your browser.
+
+You should note the date of last revision to this Notice, which appears at the top of this Notice.
+
+- If the 'last modified' date remains unchanged after you have clicked the 'refresh' button on your browser, you may presume that no changes have been made since the last reading of the Notice.
+- A changed 'last modified' dates indicates that this Notice has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
+
+## 15. Contact Information
+
+If you have any questions in relation to this Notice or you wish to exercise any of your rights, please contact us at:
+
+[https://www.vultr.com/contact/](https://www.vultr.com/contact/)
+
+### Products
+
+- [Cloud Compute](/products/cloud-compute)
+- [Cloud GPU](/products/cloud-gpu)
+- [Bare Metal](/products/bare-metal)
+- [File System](/products/file-system)
+- [Object Storage](/products/object-storage)
+- [Block Storage](/products/block-storage)
+- [Managed Databases](/products/managed-databases)
+- [CDN](/products/cdn)
+- [Serverless](/products/cloud-inference)
+- [Kubernetes](/kubernetes)
+- [Container Registry](/products/container-registry)
+- [Direct Connect](/products/direct-connect)
+- [Load Balancers](/products/load-balancers)
+
+### Features
+
+- [Locations](/features/datacenter-regions)
+- [Advanced Network](/features/advanced-networking)
+- [Control Panel](/features/control-panel)
+- [Operating Systems](/features/operating-systems)
+- [Upload ISO](/features/upload-iso)
+
+### Solutions
+
+- [Industry Cloud](/solutions/industry-cloud)
+- [One-Click Deployment](/marketplace/categories)
+- [Use Cases](/solutions)
+
+### Marketplace
+
+- [Browse Apps](/marketplace)
+- [Become a Vendor](/marketplace/become-a-verified-vendor)
+
+### Resources
+
+- [FAQ](/resources/faq)
+- [Developers / APIs](/resources/developers)
+- [Vultr Docs](/docs)
+- [Server Status](https://status.vultr.com/)
+- [Bug Bounty](/bug-bounty)
+- [Promotions](/coupons)
+- [Solution Partners](/resources/partners)
+- [Start-Up Programs](https://discover.vultr.com/startup-program/)
+
+### Company
+
+- [Our Team](/company/our-team)
+- [News](/news)
+- [Brand Assets](/company/brand-assets)
+- [Referral Program](/company/referral-program)
+- [Creator Program](/creator)
+- [Careers](/company/careers)
+- [SLA](/sla)
+- [Legal](/legal/tos)
+- [Vultr Trust Center](/trust-center)
+- [Contact](/company/contact)
+- [Your Privacy Choices](/your-privacy-choices)
+- [Subprocessors](/legal/subprocessors)
+- [Accessibility](/accessibility)
+
+- [Contact Sales](/company/contact/sales)
+- [Log in](https://my.vultr.com/)
+- [Sign up](/register)
+
+Vultr X
+
+<!-- image -->
+
+Vultr Facebook
+
+<!-- image -->
+
+Vultr YouTube
+
+<!-- image -->
+
+Vultr LinkedIn
+
+<!-- image -->
+
+Vultr GitHub
+
+<!-- image -->
+
+Vultr Stack Overflow
+
+<!-- image -->
+
+© Vultr 2026 | VULTR is a registered trademark of The Constant Company, LLC.
+
+[Terms of Service](/legal/tos)
+
+[AUP/DMCA](/legal/use-policy)
+
+[Privacy Policy](/legal/privacy)
+
+[Cookie Policy](/legal/cookie-policy)
+
+This website uses first and third party cookies for advertising purposes, to better understand your preferences, to offer you an optimal user experience, to keep track of statistics and to be able to collect your feedback. By clicking "Accept", you consent to [Vultr's Privacy Policy](https://www.vultr.com/legal/privacy/) and the use of cookies. [Read more](https://www.vultr.com/legal/cookie-policy/) about these cookies and how to configure them.
+
+Accept
+
+Decline

@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Management Body Cybersecurity Governance",
+    "description": "The contract contains provisions regarding management body oversight obligations.",
+    "criteria": [
+      "Provisions requiring management body approval of cybersecurity risk-management measures.",
+      "Clauses establishing management body oversight of measure implementation.",
+      "Terms addressing management body liability regarding cybersecurity non-compliance."
+    ],
+    "source_ref": "Article 20(1)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Cybersecurity Training Obligations",
+    "description": "The contract contains provisions regarding cybersecurity training programs.",
+    "criteria": [
+      "Requirements for management body cybersecurity training.",
+      "Commitments providing regular employee cybersecurity training.",
+      "Curriculum specifications targeting risk identification skills.",
+      "Curriculum specifications targeting risk-management practice assessment."
+    ],
+    "source_ref": "Article 20(2)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Information Security Risk Governance",
+    "description": "The contract contains writings regarding governance policies for network systems.",
+    "criteria": [
+      "Policies defining risk analysis methodology.",
+      "Policies defining information system security controls.",
+      "Procedures specifying periodic risk assessments."
+    ],
+    "source_ref": "Article 21(2)(a)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Incident Handling Procedures",
+    "description": "The contract contains writings regarding the management of security events.",
+    "criteria": [
+      "Procedures for incident detection.",
+      "Procedures for incident containment.",
+      "Procedures for incident response.",
+      "Procedures for incident impact mitigation."
+    ],
+    "source_ref": "Article 21(2)(b)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Business Continuity Management",
+    "description": "The contract contains writings regarding service operational continuity.",
+    "criteria": [
+      "Provisions regarding regular data backup management.",
+      "Procedures regarding disaster recovery operations.",
+      "Arrangements governing crisis management structures."
+    ],
+    "source_ref": "Article 21(2)(c)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Supply Chain Security Controls",
+    "description": "The contract contains writings regarding direct supplier security relationships.",
+    "criteria": [
+      "Requirements evaluating direct supplier vulnerabilities.",
+      "Provisions specifying supplier cybersecurity quality benchmarks.",
+      "Standards requiring supplier secure development practices."
+    ],
+    "source_ref": "Article 21(2)(d)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "System Lifecycle Vulnerability Management",
+    "description": "The contract contains writings regarding secure development lifecycles.",
+    "criteria": [
+      "Security requirements governing system acquisition.",
+      "Security requirements governing system development.",
+      "Security standards governing system maintenance.",
+      "Procedures governing vulnerability handling.",
+      "Procedures governing vulnerability disclosure."
+    ],
+    "source_ref": "Article 21(2)(e)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Cybersecurity Effectiveness Assessment",
+    "description": "The contract contains writings regarding evaluating security posture.",
+    "criteria": [
+      "Policies defining security control assessment frequencies.",
+      "Procedures governing security audits.",
+      "Testing protocols measuring risk-management efficacy."
+    ],
+    "source_ref": "Article 21(2)(f)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Cyber Hygiene Training",
+    "description": "The contract contains writings regarding workforce cybersecurity education.",
+    "criteria": [
+      "Mandates specifying basic cyber hygiene practices.",
+      "Schedules detailing regular staff cybersecurity training.",
+      "Protocols verifying personnel training completion."
+    ],
+    "source_ref": "Article 21(2)(g)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Cryptographic Protections",
+    "description": "The contract contains writings regarding data protection mechanisms.",
+    "criteria": [
+      "Policies governing cryptography implementation.",
+      "Standards defining data encryption requirements.",
+      "Procedures detailing cryptographic key management."
+    ],
+    "source_ref": "Article 21(2)(h)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Access Control Asset Management",
+    "description": "The contract contains writings regarding resource access restrictions.",
+    "criteria": [
+      "Requirements governing human resources security screening.",
+      "Policies establishing logical access controls.",
+      "Inventories governing hardware asset tracking.",
+      "Inventories governing software asset tracking."
+    ],
+    "source_ref": "Article 21(2)(i)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Secure Authentication and Communications",
+    "description": "The contract contains writings regarding authentication mechanisms and secured communication channels.",
+    "criteria": [
+      "Technical specifications mandating multi-factor authentication.",
+      "Technical specifications governing continuous authentication solutions.",
+      "Security controls protecting voice, video, and text communications.",
+      "Security controls protecting emergency communication channels."
+    ],
+    "source_ref": "Article 21(2)(j)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Recipient Incident Notification",
+    "description": "The contract contains writings regarding provider notifications to service recipients about significant incidents.",
+    "criteria": [
+      "Provisions requiring recipient notification without undue delay.",
+      "Clauses identifying incidents affecting service provision.",
+      "Terms specifying the content or channel of the recipient notice."
+    ],
+    "source_ref": "Article 23(1)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Threat Mitigation Communication",
+    "description": "The contract contains writings regarding provider communications to service recipients concerning potential threats.",
+    "criteria": [
+      "Provisions requiring communication without undue delay.",
+      "Clauses detailing customer mitigation measures.",
+      "Terms regarding disclosure of the threat."
+    ],
+    "source_ref": "Article 23(2)",
+    "regulation": "NIS2"
+  },
+  {
+    "title": "Incident Report Support for Customer Compliance",
+    "description": "The contract contains provisions committing the provider to supply the customer with incident information, on a tiered timeline, to support the customer's own regulatory incident-reporting obligations.",
+    "criteria": [
+      "Provisions requiring an initial incident notice to the customer within a short, defined timeframe (e.g., 24 hours) of the provider becoming aware.",
+      "Clauses requiring a follow-up notice with a fuller incident assessment (e.g., severity, indicators of compromise) within a longer defined timeframe.",
+      "Terms committing the provider to supply information or assistance for the customer's final incident report within a defined period (e.g., one month)."
+    ],
+    "source_ref": "Article 23(4)",
+    "regulation": "NIS2"
+  }
+]

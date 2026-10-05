@@ -1,0 +1,48 @@
+{
+  "objectives": [
+    {
+      "title": "Representative Appointment",
+      "description": "The contract contains writings regarding the formal designation of an EU representative.",
+      "criteria": [
+        "Provisions designating a representative located in the European Union.",
+        "Writings requiring the representative designation in written form.",
+        "Clauses specifying representative establishment in a Member State of affected data subjects."
+      ],
+      "source_ref": "Article 27(1), (3)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Representative Communication Authority",
+      "description": "The contract contains writings regarding the authority of the representative to be addressed on data protection compliance matters.",
+      "criteria": [
+        "Provisions authorizing the representative to receive communications from supervisory authorities.",
+        "Provisions authorizing the representative to receive inquiries from data subjects.",
+        "Provisions mandating that the representative may be addressed instead of, or in addition to, the controller or processor."
+      ],
+      "source_ref": "Article 27(4)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Representative Legal Standing",
+      "description": "The contract contains writings clarifying that designating a representative does not shield the controller or processor from direct legal action.",
+      "criteria": [
+        "Clauses confirming that designating a representative does not preclude legal actions against the controller directly.",
+        "Clauses confirming that designating a representative does not preclude legal actions against the processor directly."
+      ],
+      "source_ref": "Article 27(5)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Representative Designation Exemption Grounds",
+      "description": "The contract contains writings addressing the statutory grounds under which the obligation to designate an EU representative does not apply.",
+      "criteria": [
+        "Provisions citing occasional processing as grounds for exemption from designating a representative.",
+        "Provisions citing the absence of large-scale special-category or criminal-conviction data processing as grounds for exemption.",
+        "Provisions citing a low risk to data subjects' rights and freedoms, assessed by the nature, context, scope and purposes of processing, as grounds for exemption.",
+        "Provisions citing the entity's status as a public authority or body as grounds for exemption from designating a representative."
+      ],
+      "source_ref": "Article 27(2)",
+      "regulation": "GDPR"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "objectives": [
+    {
+      "title": "Processor Breach Notification Timing",
+      "description": "The contract contains provisions regarding processor notification to the controller upon detecting security incidents.",
+      "criteria": [
+        "Requirement to notify the controller after becoming aware of a personal data breach.",
+        "Timeline specifying notification occurs without undue delay."
+      ],
+      "source_ref": "Article 33(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Breach Details Disclosure",
+      "description": "The contract contains provisions regarding specific details supplied regarding an incident.",
+      "criteria": [
+        "Details describing the nature of the personal data breach.",
+        "Estimates of affected data subject categories.",
+        "Estimates of affected data subject counts.",
+        "Categories of personal data records affected.",
+        "Estimates of affected personal data record counts."
+      ],
+      "source_ref": "Article 33(3)(a)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Contact Point Designation",
+      "description": "The contract contains provisions designating communication channels for security incidents.",
+      "criteria": [
+        "Designation of a specific contact point for incident inquiries.",
+        "Contact details for the designated incident responder.",
+        "Identification details for the data protection officer."
+      ],
+      "source_ref": "Article 33(3)(b)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Breach Impact Assessment",
+      "description": "The contract contains provisions regarding the evaluation of breach ramifications.",
+      "criteria": [
+        "Descriptions of likely consequences resulting from the breach.",
+        "Explanations of potential risks to individuals."
+      ],
+      "source_ref": "Article 33(3)(c)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Mitigation Measure Reporting",
+      "description": "The contract contains provisions regarding corrective actions taken in response to a breach.",
+      "criteria": [
+        "Descriptions of measures implemented to address the breach.",
+        "Proposals for actions to mitigate adverse effects."
+      ],
+      "source_ref": "Article 33(3)(d)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Phased Breach Reporting",
+      "description": "The contract contains provisions allowing staggered disclosures during complex investigations.",
+      "criteria": [
+        "Allowance for incremental delivery of incident information.",
+        "Commitment to furnish updates without undue further delay.",
+        "Procedures for communicating subsequent discoveries."
+      ],
+      "source_ref": "Article 33(4)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Breach Documentation Support",
+      "description": "The contract contains provisions regarding recording incident evidence.",
+      "criteria": [
+        "Obligation to log facts relating to the personal data breach.",
+        "Obligation to record effects of the incident.",
+        "Obligation to maintain records of remedial actions taken.",
+        "Documentation maintained in a form that enables the supervisory authority to verify compliance."
+      ],
+      "source_ref": "Article 33(5)",
+      "regulation": "GDPR"
+    }
+  ]
+}

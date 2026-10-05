@@ -1,0 +1,54 @@
+{
+  "objectives": [
+    {
+      "title": "Data Erasure Timelines",
+      "description": "The contract contains writings regarding timelines for executing erasure requests.",
+      "criteria": [
+        "Commitment to erase personal data without undue delay.",
+        "Defined turnaround times for processing customer deletion instructions.",
+        "Procedures for confirming data deletion completion."
+      ],
+      "source_ref": "Article 17(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Deletion Triggers",
+      "description": "The contract contains writings regarding triggers for personal data deletion.",
+      "criteria": [
+        "Deletion triggered when personal data exceeds original necessity.",
+        "Deletion triggered upon customer consent withdrawal notifications.",
+        "Deletion triggered following valid customer processing objections.",
+        "Deletion triggered by unlawful processing determinations.",
+        "Deletion triggered by statutory Union legal mandates.",
+        "Deletion triggered by withdrawal of a child's consent to information society services under Article 8(1)."
+      ],
+      "source_ref": "Article 17(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Downstream Replication Notification",
+      "description": "The contract contains writings regarding notifications to third parties concerning replicated personal data.",
+      "criteria": [
+        "Technical measures informing third-party controllers regarding erasure requests.",
+        "Procedures identifying links to erased data.",
+        "Procedures identifying copies of erased data.",
+        "Procedures identifying replications of erased data."
+      ],
+      "source_ref": "Article 17(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Retention Exceptions",
+      "description": "The contract contains writings regarding exemptions from deletion obligations.",
+      "criteria": [
+        "Retention permissions justified by legal obligations, public-interest tasks, or official authority.",
+        "Retention permissions justified by public health reasons.",
+        "Retention permissions supporting archiving, scientific, historical research, or statistical purposes.",
+        "Retention permissions supporting the exercise of freedom of expression and information.",
+        "Retention permissions supporting the establishment, exercise, or defense of legal claims."
+      ],
+      "source_ref": "Article 17(3)",
+      "regulation": "GDPR"
+    }
+  ]
+}

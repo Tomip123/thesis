@@ -1,0 +1,37 @@
+{
+  "objectives": [
+    {
+      "title": "Data Rectification Mechanisms",
+      "description": "The contract contains writings regarding correcting inaccurate personal data.",
+      "criteria": [
+        "Provisions detailing the rectification of inaccurate data.",
+        "Mechanisms enabling data subject correction requests.",
+        "Technical measures facilitating data modifications."
+      ],
+      "source_ref": "Article 16",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Completion of Incomplete Personal Data",
+      "description": "The contract contains writings regarding completing incomplete records.",
+      "criteria": [
+        "Provisions governing the completion of incomplete data.",
+        "Mechanisms permitting supplementary statements.",
+        "Procedures assessing processing purposes during data completion."
+      ],
+      "source_ref": "Article 16",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Rectification Timelines",
+      "description": "The contract contains writings regarding execution timelines for corrections.",
+      "criteria": [
+        "Provisions specifying execution without undue delay.",
+        "Timeframes governing processor responses to correction instructions.",
+        "Confirmation to the controller upon completion of a correction within the specified timeframe."
+      ],
+      "source_ref": "Article 16",
+      "regulation": "GDPR"
+    }
+  ]
+}

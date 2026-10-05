@@ -1,0 +1,84 @@
+{
+  "objectives": [
+    {
+      "title": "Lawful Processing Governance",
+      "description": "The contract contains writings regarding lawful data handling procedures.",
+      "criteria": [
+        "Provisions specifying the legal basis for processing.",
+        "Writings defining fairness standards applied to data subjects.",
+        "Requirements for transparent processing notifications."
+      ],
+      "source_ref": "Article 5(1)(a)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Purpose Specification",
+      "description": "The contract contains writings regarding data processing boundaries.",
+      "criteria": [
+        "Specification of explicit processing purposes.",
+        "Prohibitions against incompatible secondary processing operations.",
+        "Protocols for public interest research processing exceptions."
+      ],
+      "source_ref": "Article 5(1)(b)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Minimisation Standards",
+      "description": "The contract contains writings regarding data volume restrictions.",
+      "criteria": [
+        "Clauses restricting data collection to adequate limits.",
+        "Provisions enforcing data processing relevance.",
+        "Writings limiting stored data strictly to necessary operational requirements."
+      ],
+      "source_ref": "Article 5(1)(c)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Accuracy Management",
+      "description": "The contract contains writings regarding data precision maintenance.",
+      "criteria": [
+        "Procedures ensuring data precision.",
+        "Schedules governing systematic record updates.",
+        "Mechanisms executing immediate inaccurate data erasure.",
+        "Processes executing prompt inaccurate data rectification."
+      ],
+      "source_ref": "Article 5(1)(d)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Storage Limitation Protocols",
+      "description": "The contract contains writings regarding data retention boundaries.",
+      "criteria": [
+        "Defined data retention periods tied to the purposes for which the data is processed.",
+        "Mechanisms for deleting or anonymising personal data once it is no longer needed for those purposes.",
+        "Recognition of exceptions allowing longer storage solely for archiving in the public interest, scientific or historical research, or statistical purposes.",
+        "Required technical and organisational safeguards for personal data retained under those extended-storage exceptions."
+      ],
+      "source_ref": "Article 5(1)(e)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Security Safeguards",
+      "description": "The contract contains writings regarding data protection measures.",
+      "criteria": [
+        "Technical and organisational measures to prevent unauthorised or unlawful processing.",
+        "Measures preventing accidental loss of personal data.",
+        "Measures preventing accidental destruction of personal data.",
+        "Measures preventing accidental damage to personal data."
+      ],
+      "source_ref": "Article 5(1)(f)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Accountability Documentation",
+      "description": "The contract contains writings regarding compliance demonstration.",
+      "criteria": [
+        "Protocols establishing controller responsibility.",
+        "Provisions mandating compliance recordkeeping.",
+        "Procedures demonstrating adherence through verifiable audits."
+      ],
+      "source_ref": "Article 5(2)",
+      "regulation": "GDPR"
+    }
+  ]
+}

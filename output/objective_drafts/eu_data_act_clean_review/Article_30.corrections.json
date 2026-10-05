@@ -1,0 +1,67 @@
+{
+  "objectives": [
+    {
+      "title": "Infrastructure Switching Support",
+      "description": "Contractual terms addressing infrastructure provider support duties during switching.",
+      "criteria": [
+        "Provisions on achieving functional equivalence in destination services.",
+        "Terms detailing technical capabilities provided to the customer.",
+        "Provisions concerning adequate information provided to the customer about the switching process.",
+        "Provisions concerning adequate switching documentation.",
+        "Commitments to furnish technical support during migration.",
+        "Commitments to supply switching tools."
+      ],
+      "source_ref": "Article 30(1)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Open Interface Availability",
+      "description": "Contractual clauses governing open interfaces for non-infrastructure services.",
+      "criteria": [
+        "Commitments to provide open interfaces free of charge.",
+        "Terms guaranteeing equal interface access for customers.",
+        "Terms guaranteeing equal interface access for destination providers.",
+        "Inclusion of documentation enabling software communication development."
+      ],
+      "source_ref": "Article 30(2)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Interoperability Specification Compliance",
+      "description": "Contractual terms specifying adherence to recognized interoperability benchmarks.",
+      "criteria": [
+        "Commitments to achieve compatibility with common interoperability specifications.",
+        "Commitments to achieve compatibility with harmonised interoperability standards.",
+        "Adherence to the twelve-month post-publication compliance timeline.",
+        "Mandatory updates to the public online register following standards adoption."
+      ],
+      "source_ref": "Article 30(3)-(4)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Data Export Formatting",
+      "description": "Contractual terms governing data output characteristics during service switching.",
+      "criteria": [
+        "Provisions requiring export of all exportable data upon customer request.",
+        "Specifications guaranteeing structured data output.",
+        "Specifications guaranteeing commonly used data formats.",
+        "Specifications guaranteeing machine-readable data formats."
+      ],
+      "source_ref": "Article 30(5)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Switching Obligation Limitations",
+      "description": "Contractual terms defining statutory boundaries to provider switching duties.",
+      "criteria": [
+        "Exclusions regarding the development of novel technologies.",
+        "Exclusions regarding the development of novel services.",
+        "Safeguards preventing disclosure or transfer of intellectual property-protected digital assets.",
+        "Safeguards preventing disclosure or transfer of trade secret-protected digital assets.",
+        "Safeguards maintaining the security and integrity of the service."
+      ],
+      "source_ref": "Article 30(6)",
+      "regulation": "EU Data Act"
+    }
+  ]
+}

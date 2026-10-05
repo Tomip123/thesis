@@ -1,0 +1,38 @@
+{
+  "objectives": [
+    {
+      "title": "Technical and Organizational Measures Governance",
+      "description": "The contract contains writings regarding technical and organizational processing controls.",
+      "criteria": [
+        "Specifications defining implemented technical and organizational measures.",
+        "Protocols reviewing technical and organizational measures.",
+        "Mechanisms updating technical and organizational measures.",
+        "Evidence demonstrating that processing is performed in accordance with the Regulation."
+      ],
+      "source_ref": "Article 24(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Protection Policies",
+      "description": "The contract contains writings regarding formal data protection policies.",
+      "criteria": [
+        "Commitments establishing formal data protection policies.",
+        "Provisions governing data protection policy implementation.",
+        "Data protection policies scoped appropriately to the nature and risk of processing activities."
+      ],
+      "source_ref": "Article 24(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Independent Compliance Demonstration",
+      "description": "The contract contains writings regarding external mechanisms proving regulatory adherence.",
+      "criteria": [
+        "Provisions referencing approved codes of conduct.",
+        "Provisions referencing approved certification mechanisms.",
+        "Recognition that such adherence is one element, not sole proof, of demonstrating compliance."
+      ],
+      "source_ref": "Article 24(3)",
+      "regulation": "GDPR"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "objectives": [
+    {
+      "title": "Adequacy Decision Transfer Basis",
+      "description": "The contract contains writings regarding data transfers based on European Commission adequacy findings.",
+      "criteria": [
+        "Identification of recipient destinations recognized by adequacy decisions.",
+        "Statements confirming transfers require no specific supervisory authorization.",
+        "Documentation establishing the geographic scope of recipient jurisdictions."
+      ],
+      "source_ref": "Article 45(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Adequacy Decision Invalidation Response",
+      "description": "The contract contains writings regarding changes to the adequacy status of destination territories.",
+      "criteria": [
+        "Procedures triggered by the formal repeal of an adequacy decision.",
+        "Protocols activated upon European Commission suspension of destination adequacy.",
+        "Notification obligations following alterations in adequacy status."
+      ],
+      "source_ref": "Article 45(5)",
+      "regulation": "GDPR"
+    }
+  ]
+}

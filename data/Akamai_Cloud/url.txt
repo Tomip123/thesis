@@ -1,0 +1,4 @@
+# https://www.akamai.com/site/en/documents/corporate/akamai-data-protection-addendum.pdf
+# https://www.akamai.com/legal/sla-compute
+# https://www.linode.com/legal-msa/
+https://www.akamai.com/site/en/documents/corporate/2025/eu-data-act.pdf

@@ -1,0 +1,46 @@
+{
+  "objectives": [
+    {
+      "title": "Third Country Transfer Safeguards",
+      "description": "The contract contains writings regarding required transfer safeguards.",
+      "criteria": [
+        "Provisions establishing enforceable data subject rights.",
+        "Provisions establishing effective legal remedies for data subjects."
+      ],
+      "source_ref": "Article 46(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Standard Data Protection Clauses",
+      "description": "The contract contains writings regarding standard transfer clauses.",
+      "criteria": [
+        "Provisions incorporating standard data protection clauses adopted by the Commission.",
+        "Provisions incorporating standard data protection clauses adopted by a supervisory authority and approved by the Commission."
+      ],
+      "source_ref": "Article 46(2)(c)-(d)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Ad Hoc Contractual Safeguards",
+      "description": "The contract contains writings regarding individually authorized contractual clauses.",
+      "criteria": [
+        "Provisions incorporating supervisory authority authorized contractual clauses.",
+        "Terms governing recipient obligations in third countries.",
+        "Clauses establishing recipient obligations in international organisations."
+      ],
+      "source_ref": "Article 46(3)(a)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Code of Conduct and Certification Transfer Safeguards",
+      "description": "The contract contains writings regarding code of conduct or certification-based transfer safeguards.",
+      "criteria": [
+        "Provisions incorporating an approved code of conduct pursuant to Article 40 as a transfer safeguard.",
+        "Provisions incorporating an approved certification mechanism pursuant to Article 42 as a transfer safeguard.",
+        "Binding and enforceable commitments to apply the safeguards, including as regards data subjects' rights."
+      ],
+      "source_ref": "Article 46(2)(e)-(f)",
+      "regulation": "GDPR"
+    }
+  ]
+}

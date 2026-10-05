@@ -1,0 +1,98 @@
+{
+  "objectives": [
+    {
+      "title": "Processing Scope Specifications",
+      "description": "The contract contains writings defining processing parameters.",
+      "criteria": [
+        "Specification of the subject-matter of the processing.",
+        "Specification of the duration of the processing.",
+        "Specification of the nature of the processing.",
+        "Specification of the purpose(s) of the processing.",
+        "Identification of the type of personal data and categories of data subjects.",
+        "Specification of the obligations and rights of the controller."
+      ],
+      "source_ref": "Article 28(3)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Documented Instructions Compliance",
+      "description": "The contract contains writings governing processor adherence to controller directives.",
+      "criteria": [
+        "Obligation to process personal data solely on documented controller instructions.",
+        "Provisions governing international personal data transfers.",
+        "Notification procedures when statutory law requires processing contrary to instructions."
+      ],
+      "source_ref": "Article 28(3)(a)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Personnel Confidentiality Commitments",
+      "description": "The contract contains writings concerning authorized personnel confidentiality obligations.",
+      "criteria": [
+        "Requirement for authorized personnel contractual confidentiality commitments.",
+        "Verification of statutory confidentiality duties for processing personnel."
+      ],
+      "source_ref": "Article 28(3)(b)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Subcontractor Engagement Controls",
+      "description": "The contract contains writings governing third-party processor subcontracting.",
+      "criteria": [
+        "Requirement for prior written controller authorization.",
+        "Advance notification of intended sub-processor replacements.",
+        "Mechanism enabling controller objections to sub-processor modifications.",
+        "Flow-down of equivalent data protection contractual obligations.",
+        "Direct processor liability for sub-processor defaults."
+      ],
+      "source_ref": "Article 28",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Subject Requests Support",
+      "description": "The contract contains writings outlining processor support for individual privacy rights.",
+      "criteria": [
+        "Implementation of technical measures facilitating data subject rights fulfillment.",
+        "Implementation of organisational measures supporting controller responses to individuals.",
+        "Assistance is scoped to what is reasonably possible, taking into account the nature of the processing."
+      ],
+      "source_ref": "Article 28(3)(e)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Post-Termination Data Disposition",
+      "description": "The contract contains writings governing data status following service conclusion.",
+      "criteria": [
+        "Processor obligations regarding complete personal data deletion.",
+        "Procedures governing personal data return to the controller.",
+        "Protocols for deleting existing secondary data copies.",
+        "Exception permitting retention of personal data where required by Union or Member State law."
+      ],
+      "source_ref": "Article 28(3)(g)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Audit Verification Entitlements",
+      "description": "The contract contains writings governing controller audit rights.",
+      "criteria": [
+        "Mandatory provision of compliance demonstration information.",
+        "Allowance for controller-conducted audits.",
+        "Allowance for mandated third-party inspections.",
+        "Immediate notification when instructions infringe legal regulations."
+      ],
+      "source_ref": "Article 28(3)(h)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Sufficient Guarantees Assurance",
+      "description": "The contract contains writings evidencing the processor's sufficient guarantees to implement appropriate technical and organisational measures.",
+      "criteria": [
+        "Processor representation of providing sufficient technical and organisational guarantees to meet regulatory requirements.",
+        "Adherence to an approved code of conduct as an element demonstrating sufficient guarantees.",
+        "Adherence to an approved certification mechanism as an element demonstrating sufficient guarantees."
+      ],
+      "source_ref": "Article 28(1)",
+      "regulation": "GDPR"
+    }
+  ]
+}

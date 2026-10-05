@@ -1,0 +1,8 @@
+https://www.oracle.com/legal/privacy/services-privacy-policy/
+# https://www.oracle.com/contracts/docs/data-processing-agreement-oracle-services-081425.pdf
+# https://www.oracle.com/contracts/docs/cloud_csa_online_v062223_fi_eng.pdf
+https://www.oracle.com/contracts/docs/data-transfer-annex-v060225.pdf
+https://www.oracle.com/contracts/docs/exhibits-to-data-transfer-annex-v060225.pdf
+https://www.oracle.com/contracts/docs/ocloud_hosting_delivery_policies_3089853.pdf
+https://www.oracle.com/contracts/docs/corporate-security-practices-4490843.pdf
+https://www.oracle.com/contracts/docs/corporate_bcr_privacy_code_051719.pdf

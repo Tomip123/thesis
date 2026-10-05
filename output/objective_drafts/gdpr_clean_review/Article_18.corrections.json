@@ -1,0 +1,39 @@
+{
+  "objectives": [
+    {
+      "title": "Processing Restriction Measures",
+      "description": "The contract contains writings regarding mechanisms or procedures to restrict data processing operations upon the data subject's request.",
+      "criteria": [
+        "Mechanisms enabling data processing suspension upon data accuracy challenges.",
+        "Provisions restricting data processing when erasure is contested.",
+        "Procedures preserving data needed exclusively for legal claims.",
+        "Mechanisms freezing processing activities pending objection assessments."
+      ],
+      "source_ref": "Article 18(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Management of Restricted Data",
+      "description": "The contract contains writings defining permissible processing actions during an active restriction.",
+      "criteria": [
+        "Limitation of restricted personal data activities to storage exclusively.",
+        "Requirement of the data subject's consent for active processing during restrictions.",
+        "Allowance of restricted data processing strictly for legal claims defense.",
+        "Allowance of restricted data processing for third-party protection.",
+        "Allowance of restricted data processing for public interest grounds."
+      ],
+      "source_ref": "Article 18(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Notification of Restriction Removal",
+      "description": "The contract contains writings regarding communication preceding the lifting of processing restrictions.",
+      "criteria": [
+        "Requirements for prior notification before lifting processing restrictions.",
+        "Specified timelines for notifying the customer before restriction removal."
+      ],
+      "source_ref": "Article 18(3)",
+      "regulation": "GDPR"
+    }
+  ]
+}

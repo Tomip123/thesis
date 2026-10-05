@@ -1,0 +1,26 @@
+{
+  "objectives": [
+    {
+      "title": "International Data Transfer Conditions",
+      "description": "The contract contains provisions addressing conditions for personal data transfers outside the European Union.",
+      "criteria": [
+        "Provisions requiring that transfers of personal data to a third country comply with the conditions laid down in Chapter V.",
+        "Provisions requiring that transfers of personal data to an international organisation comply with the conditions laid down in Chapter V.",
+        "Confirmation that the Chapter V conditions bind the processor as well as the controller."
+      ],
+      "source_ref": "Article 44",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Onward Transfer Governance",
+      "description": "The contract contains provisions regulating downstream transfers across jurisdictions.",
+      "criteria": [
+        "Provisions requiring that onward transfers of the data from a third-country recipient comply with the Chapter V conditions.",
+        "Provisions requiring that onward transfers of the data from an international-organisation recipient comply with the Chapter V conditions.",
+        "Clauses restricting onward transfers to further third countries or international organisations not authorised under the Chapter V conditions."
+      ],
+      "source_ref": "Article 44",
+      "regulation": "GDPR"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "objectives": [
+    {
+      "title": "Controller Instruction Adherence",
+      "description": "The contract contains writings governing personal data processing strictly upon documented instructions from the controller.",
+      "criteria": [
+        "Clauses limiting the processor's own data processing strictly to instructions received from the controller.",
+        "Clauses binding personnel or agents acting under the processor's authority who access personal data to the same instruction-only limitation.",
+        "Clauses binding personnel or agents acting under the controller's own authority (not the processor's) who access personal data to the same instruction-only limitation."
+      ],
+      "source_ref": "Article 29",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Statutory Compliance Exceptions",
+      "description": "The contract contains writings governing personal data processing mandated by external legislation.",
+      "criteria": [
+        "Clauses recognizing processing required by Union law.",
+        "Clauses recognizing processing required by Member State law.",
+        "Provisions governing processing duties superseding controller instructions."
+      ],
+      "source_ref": "Article 29",
+      "regulation": "GDPR"
+    }
+  ]
+}

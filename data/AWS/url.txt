@@ -1,0 +1,8 @@
+https://aws.amazon.com/agreement/
+https://aws.amazon.com/service-terms/
+https://aws.amazon.com/compliance/sub-processors/
+# https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf
+https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/legal/approved/eu-data-act-addendum.pdf
+https://d1.awsstatic.com/legal/aws-dpa/supplementary-addendum-to-the-aws-dpa.pdf
+https://d1.awsstatic.com/legal/aws-dpa/controller-to-processor-sccs.pdf
+https://d1.awsstatic.com/legal/aws-dpa/processor-to-processor-sccs.pdf

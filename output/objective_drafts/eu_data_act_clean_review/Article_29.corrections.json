@@ -1,0 +1,50 @@
+{
+  "objectives": [
+    {
+      "title": "Switching Charge Cap and Sunset",
+      "description": "The contract contains writings regarding the amount of switching charges permitted before and after the statutory sunset date.",
+      "criteria": [
+        "Provision stating that no switching charges of any kind are imposed on the customer for the switching process from 12 January 2027 onward.",
+        "Provision permitting the provider to impose reduced switching charges for the switching process during the 11 January 2024 to 12 January 2027 transition period.",
+        "Provision limiting any transitional switching charges to costs directly incurred by the provider that are directly linked to the switching process concerned."
+      ],
+      "source_ref": "Article 29(1)-(3)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Pre-Contractual Cost Transparency",
+      "description": "The contract contains writings regarding cost transparency before contract execution.",
+      "criteria": [
+        "Disclosures specifying standard service fees prior to contract conclusion.",
+        "Disclosures detailing early termination penalties prior to contract signing.",
+        "Disclosures identifying applicable transitional reduced switching charges."
+      ],
+      "source_ref": "Article 29(4)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Switching Complexity Disclosures",
+      "description": "The contract contains writings regarding technical impediments to switching.",
+      "criteria": [
+        "Disclosures identifying services involving highly complex switching.",
+        "Disclosures identifying services involving costly switching operations.",
+        "Disclosures identifying switching scenarios causing significant data interference.",
+        "Disclosures identifying switching scenarios causing significant digital asset interference.",
+        "Disclosures identifying switching scenarios causing significant service architecture interference."
+      ],
+      "source_ref": "Article 29(5)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Public Availability of Switching Terms",
+      "description": "The contract contains writings regarding public access to the fee and switching-complexity information required to be disclosed.",
+      "criteria": [
+        "Provisions committing to publicly disclose the standard fee, termination penalty, and transitional switching charge information.",
+        "Provisions committing to publicly disclose the complex, costly, or high-interference switching disclosures.",
+        "Provisions specifying that this information is made available via a dedicated website section or another easily accessible means."
+      ],
+      "source_ref": "Article 29(6)",
+      "regulation": "EU Data Act"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "objectives": [
+    {
+      "title": "General Right to Object Implementation",
+      "description": "The contract contains writings regarding data subject objections to processing based on public-interest/official-authority or legitimate-interest grounds, including related profiling.",
+      "criteria": [
+        "Mechanisms enabling data subjects to submit objections based on particular situations.",
+        "Processes halting processing upon receipt of an objection.",
+        "Procedures evaluating compelling legitimate grounds overriding data subject interests.",
+        "Procedures assessing processing necessary for legal claims defense.",
+        "Provisions confirming the objection right extends to profiling carried out under those processing grounds."
+      ],
+      "source_ref": "Article 21(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Direct Marketing Objection Handling",
+      "description": "The contract contains writings regarding objections to direct marketing activities.",
+      "criteria": [
+        "Mechanisms recording data subject objections to direct marketing.",
+        "Terms prohibiting personal data processing for direct marketing following an objection.",
+        "Terms prohibiting direct marketing profiling following an objection."
+      ],
+      "source_ref": "Article 21(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Presentation of Objection Rights",
+      "description": "The contract contains writings regarding notification procedures for objection rights.",
+      "criteria": [
+        "Provisions explicitly presenting the right to object at initial communication.",
+        "Provisions presenting the right to object separately from unrelated information.",
+        "Specifications requiring clear formatting for objection notices."
+      ],
+      "source_ref": "Article 21(4)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Automated Objection Procedures",
+      "description": "The contract contains writings regarding technical mechanisms for exercising objections.",
+      "criteria": [
+        "Technical specifications enabling data subjects to exercise the right to object by automated means within information society services.",
+        "System capabilities recognizing and honoring automated objection signals as valid objections."
+      ],
+      "source_ref": "Article 21(5)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Research Processing Objections",
+      "description": "The contract contains writings regarding objections to research data processing.",
+      "criteria": [
+        "Mechanisms handling objections to scientific research processing.",
+        "Mechanisms handling objections to statistical processing.",
+        "Verification procedures establishing public interest processing exemptions."
+      ],
+      "source_ref": "Article 21(6)",
+      "regulation": "GDPR"
+    }
+  ]
+}

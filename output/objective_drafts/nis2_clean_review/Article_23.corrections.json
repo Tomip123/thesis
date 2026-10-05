@@ -1,0 +1,37 @@
+{
+  "objectives": [
+    {
+      "title": "Recipient Incident Notification",
+      "description": "The contract contains writings regarding provider notifications to service recipients about significant incidents.",
+      "criteria": [
+        "Provisions requiring recipient notification without undue delay.",
+        "Clauses identifying incidents affecting service provision.",
+        "Terms specifying the content or channel of the recipient notice."
+      ],
+      "source_ref": "Article 23(1)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Threat Mitigation Communication",
+      "description": "The contract contains writings regarding provider communications to service recipients concerning potential threats.",
+      "criteria": [
+        "Provisions requiring communication without undue delay.",
+        "Clauses detailing customer mitigation measures.",
+        "Terms regarding disclosure of the threat."
+      ],
+      "source_ref": "Article 23(2)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Incident Report Support for Customer Compliance",
+      "description": "The contract contains provisions committing the provider to supply the customer with incident information, on a tiered timeline, to support the customer's own regulatory incident-reporting obligations.",
+      "criteria": [
+        "Provisions requiring an initial incident notice to the customer within a short, defined timeframe (e.g., 24 hours) of the provider becoming aware.",
+        "Clauses requiring a follow-up notice with a fuller incident assessment (e.g., severity, indicators of compromise) within a longer defined timeframe.",
+        "Terms committing the provider to supply information or assistance for the customer's final incident report within a defined period (e.g., one month)."
+      ],
+      "source_ref": "Article 23(4)",
+      "regulation": "NIS2"
+    }
+  ]
+}

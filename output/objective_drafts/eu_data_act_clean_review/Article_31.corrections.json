@@ -1,0 +1,38 @@
+{
+  "objectives": [
+    {
+      "title": "Custom-Built Service Regime",
+      "description": "Documentation contains writings defining criteria qualifying services for exemption based on individualized development.",
+      "criteria": [
+        "Specifications designating the majority of main features custom-built for an individual customer.",
+        "Specifications designating all components developed for the purposes of an individual customer.",
+        "Provisions confirming the service is excluded from the broad commercial service catalogue."
+      ],
+      "source_ref": "Article 31(1)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Testing Service Regime",
+      "description": "Documentation contains writings defining temporary testing services exempt from switching obligations.",
+      "criteria": [
+        "Designation of services as non-production versions.",
+        "Specification of testing purposes.",
+        "Specification of evaluation purposes.",
+        "Contractual limitation of the operational service timeframe."
+      ],
+      "source_ref": "Article 31(2)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Pre-Contractual Exemption Disclosure",
+      "description": "Documentation contains writings informing prospective customers about inapplicable Chapter obligations.",
+      "criteria": [
+        "Disclosures delivered prior to contract conclusion.",
+        "For services qualifying under the custom-built regime, disclosure specifies that the obligations in Article 23, point (d), Article 29, and Article 30(1) and (3) do not apply.",
+        "For services qualifying under the testing and evaluation regime, disclosure specifies that all obligations of this Chapter do not apply."
+      ],
+      "source_ref": "Article 31(3)",
+      "regulation": "EU Data Act"
+    }
+  ]
+}

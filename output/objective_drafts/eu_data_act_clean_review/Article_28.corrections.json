@@ -1,0 +1,38 @@
+{
+  "objectives": [
+    {
+      "title": "Contractual Transparency Website Listing",
+      "description": "The contract lists the website(s) publishing the Article 28(1) international-access transparency information for the data processing service(s) it covers.",
+      "criteria": [
+        "A reference to the specific website hosting the required jurisdiction and safeguards disclosures.",
+        "The website reference applies to the data processing service(s) governed by this contract.",
+        "The reference identifies international-access transparency information specifically, not a generic company or support page.",
+        "A commitment that the referenced website's transparency information is kept up to date."
+      ],
+      "source_ref": "Article 28(2)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "ICT Infrastructure Jurisdiction Transparency",
+      "description": "The documentation discloses the jurisdiction governing the ICT infrastructure used for each data processing service.",
+      "criteria": [
+        "The jurisdiction (country or legal system) governing the ICT infrastructure is named.",
+        "Jurisdiction is disclosed per individual service rather than as one blanket statement covering all services.",
+        "The disclosed jurisdiction covers the infrastructure actually used for data processing, not merely the provider's corporate domicile."
+      ],
+      "source_ref": "Article 28(1)(a)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Disclosure of Safeguards Against Foreign Governmental Interception",
+      "description": "The documentation provides a general description of the technical, organisational, and contractual measures adopted to prevent international governmental access to or transfer of non-personal Union data where this would conflict with Union or Member State law.",
+      "criteria": [
+        "Description of technical measures adopted to prevent unlawful international governmental access to or transfer of non-personal data.",
+        "Description of organisational measures adopted for the same purpose.",
+        "Description of contractual measures adopted for the same purpose."
+      ],
+      "source_ref": "Article 28(1)(b)",
+      "regulation": "EU Data Act"
+    }
+  ]
+}

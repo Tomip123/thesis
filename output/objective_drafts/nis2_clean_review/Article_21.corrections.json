@@ -1,0 +1,119 @@
+{
+  "objectives": [
+    {
+      "title": "Information Security Risk Governance",
+      "description": "The contract contains writings regarding governance policies for network systems.",
+      "criteria": [
+        "Policies defining risk analysis methodology.",
+        "Policies defining information system security controls.",
+        "Procedures specifying periodic risk assessments."
+      ],
+      "source_ref": "Article 21(2)(a)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Incident Handling Procedures",
+      "description": "The contract contains writings regarding the management of security events.",
+      "criteria": [
+        "Procedures for incident detection.",
+        "Procedures for incident containment.",
+        "Procedures for incident response.",
+        "Procedures for incident impact mitigation."
+      ],
+      "source_ref": "Article 21(2)(b)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Business Continuity Management",
+      "description": "The contract contains writings regarding service operational continuity.",
+      "criteria": [
+        "Provisions regarding regular data backup management.",
+        "Procedures regarding disaster recovery operations.",
+        "Arrangements governing crisis management structures."
+      ],
+      "source_ref": "Article 21(2)(c)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Supply Chain Security Controls",
+      "description": "The contract contains writings regarding direct supplier security relationships.",
+      "criteria": [
+        "Requirements evaluating direct supplier vulnerabilities.",
+        "Provisions specifying supplier cybersecurity quality benchmarks.",
+        "Standards requiring supplier secure development practices."
+      ],
+      "source_ref": "Article 21(2)(d)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "System Lifecycle Vulnerability Management",
+      "description": "The contract contains writings regarding secure development lifecycles.",
+      "criteria": [
+        "Security requirements governing system acquisition.",
+        "Security requirements governing system development.",
+        "Security standards governing system maintenance.",
+        "Procedures governing vulnerability handling.",
+        "Procedures governing vulnerability disclosure."
+      ],
+      "source_ref": "Article 21(2)(e)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Cybersecurity Effectiveness Assessment",
+      "description": "The contract contains writings regarding evaluating security posture.",
+      "criteria": [
+        "Policies defining security control assessment frequencies.",
+        "Procedures governing security audits.",
+        "Testing protocols measuring risk-management efficacy."
+      ],
+      "source_ref": "Article 21(2)(f)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Cyber Hygiene Training",
+      "description": "The contract contains writings regarding workforce cybersecurity education.",
+      "criteria": [
+        "Mandates specifying basic cyber hygiene practices.",
+        "Schedules detailing regular staff cybersecurity training.",
+        "Protocols verifying personnel training completion."
+      ],
+      "source_ref": "Article 21(2)(g)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Cryptographic Protections",
+      "description": "The contract contains writings regarding data protection mechanisms.",
+      "criteria": [
+        "Policies governing cryptography implementation.",
+        "Standards defining data encryption requirements.",
+        "Procedures detailing cryptographic key management."
+      ],
+      "source_ref": "Article 21(2)(h)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Access Control Asset Management",
+      "description": "The contract contains writings regarding resource access restrictions.",
+      "criteria": [
+        "Requirements governing human resources security screening.",
+        "Policies establishing logical access controls.",
+        "Inventories governing hardware asset tracking.",
+        "Inventories governing software asset tracking."
+      ],
+      "source_ref": "Article 21(2)(i)",
+      "regulation": "NIS2"
+    },
+    {
+      "title": "Secure Authentication and Communications",
+      "description": "The contract contains writings regarding authentication mechanisms and secured communication channels.",
+      "criteria": [
+        "Technical specifications mandating multi-factor authentication.",
+        "Technical specifications governing continuous authentication solutions.",
+        "Security controls protecting voice, video, and text communications.",
+        "Security controls protecting emergency communication channels."
+      ],
+      "source_ref": "Article 21(2)(j)",
+      "regulation": "NIS2"
+    }
+  ]
+}

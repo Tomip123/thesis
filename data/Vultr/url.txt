@@ -1,0 +1,6 @@
+https://www.vultr.com/legal/tos/
+https://www.vultr.com/legal/privacy/
+https://www.vultr.com/legal/eea-gdpr-privacy/
+https://www.vultr.com/legal/use-policy/
+# https://www.vultr.com/legal/subprocessors/
+# https://www.vultr.com/legal/sla/

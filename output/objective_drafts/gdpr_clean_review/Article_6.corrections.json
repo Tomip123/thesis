@@ -1,0 +1,29 @@
+{
+  "objectives": [
+    {
+      "title": "Lawful Grounds Identification",
+      "description": "The contract contains provisions identifying legal grounds governing cloud operations.",
+      "criteria": [
+        "Provisions documenting data subject consent.",
+        "Provisions establishing contract performance necessity.",
+        "Provisions documenting controller statutory compliance.",
+        "Provisions detailing controller legitimate interests."
+      ],
+      "source_ref": "Article 6(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Compatible Secondary Processing Assessment",
+      "description": "The contract evaluates new processing beyond initial collection purposes.",
+      "criteria": [
+        "Clauses evaluating purpose linkages.",
+        "Clauses assessing data collection context.",
+        "Clauses evaluating special category data presence.",
+        "Clauses evaluating consequences targeting data subjects.",
+        "Clauses evaluating the existence of appropriate technical safeguards, such as encryption or pseudonymisation."
+      ],
+      "source_ref": "Article 6(4)",
+      "regulation": "GDPR"
+    }
+  ]
+}

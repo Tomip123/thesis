@@ -1,0 +1,62 @@
+{
+  "objectives": [
+    {
+      "title": "Technical Obfuscation Safeguards",
+      "description": "The contract contains writings regarding baseline technical data protection controls.",
+      "criteria": [
+        "Provisions regarding personal data pseudonymisation.",
+        "Provisions regarding personal data encryption at rest.",
+        "Provisions regarding personal data encryption in transit."
+      ],
+      "source_ref": "Article 32(1)(a)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "System Resilience Attributes",
+      "description": "The contract contains writings regarding baseline operational security metrics.",
+      "criteria": [
+        "Provisions ensuring ongoing processing confidentiality.",
+        "Provisions ensuring ongoing processing integrity.",
+        "Provisions ensuring continuous processing availability.",
+        "Provisions ensuring processing system resilience."
+      ],
+      "source_ref": "Article 32(1)(b)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Incident Recovery Capabilities",
+      "description": "The contract contains writings regarding service restoration following adverse disruptions.",
+      "criteria": [
+        "Measures restoring personal data availability following physical incidents.",
+        "Measures restoring personal data availability following technical incidents.",
+        "Target timelines for restoring personal data access."
+      ],
+      "source_ref": "Article 32(1)(c)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Security Effectiveness Assurance",
+      "description": "The contract contains writings regarding recurring verification of protective measures' effectiveness.",
+      "criteria": [
+        "A defined process exists for testing, assessing, or evaluating the effectiveness of security measures.",
+        "The verification process covers both technical and organisational measures.",
+        "The verification process is performed on a regular, recurring basis."
+      ],
+      "source_ref": "Article 32(1)(d)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Processing Risk Management",
+      "description": "The contract contains writings addressing specific security hazard categories.",
+      "criteria": [
+        "Safeguards preventing accidental or unlawful destruction of personal data.",
+        "Safeguards preventing loss of personal data.",
+        "Measures preventing unauthorized personal data alteration.",
+        "Protocols preventing unlawful personal data disclosure.",
+        "Mechanisms preventing unauthorized personal data access."
+      ],
+      "source_ref": "Article 32(2)",
+      "regulation": "GDPR"
+    }
+  ]
+}

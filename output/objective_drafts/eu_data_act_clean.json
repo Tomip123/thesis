@@ -1,0 +1,559 @@
+[
+  {
+    "title": "Liability and Remedy Exclusions",
+    "description": "Terms that exclude or limit the imposing party's liability for its own wrongdoing, or that exclude the other party's remedies or the imposing party's liability for breach of its obligations.",
+    "criteria": [
+      "Clauses excluding or limiting the imposing party's liability for intentional acts.",
+      "Clauses excluding or limiting the imposing party's liability for gross negligence.",
+      "Clauses excluding the remedies available to the other party in the case of the imposing party's nonperformance.",
+      "Clauses excluding the imposing party's liability in the case of a breach of its own contractual obligations."
+    ],
+    "source_ref": "Article 13(4)(a)-(b)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Presumed Unfair Remedy and Liability Limitations",
+    "description": "Terms that inappropriately limit the other party's remedies or the imposing party's liability without outright excluding them, or that extend the other party's own liability.",
+    "criteria": [
+      "Clauses inappropriately limiting the remedies available to the other party in the case of the imposing party's nonperformance.",
+      "Clauses inappropriately limiting the imposing party's liability in the case of a breach of its obligations.",
+      "Clauses extending the liability of the party upon whom the term was unilaterally imposed."
+    ],
+    "source_ref": "Article 13(5)(a)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Contract Interpretation Discretion",
+    "description": "Terms reserving to the imposing party sole authority to determine data conformity or to interpret contractual terms.",
+    "criteria": [
+      "Clauses reserving to the imposing party sole authority to determine whether the data supplied conform to the contract.",
+      "Clauses reserving to the imposing party sole authority to interpret contractual terms."
+    ],
+    "source_ref": "Article 13(4)(c)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Customer Data Access Rights",
+    "description": "Terms establishing the customer right to use generated data.",
+    "criteria": [
+      "Provisions permitting customer access to generated data.",
+      "Provisions permitting customer use of generated data.",
+      "Provisions securing customer exploitation of data value."
+    ],
+    "source_ref": "Article 13(5)(c)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Data Copy Retrieval",
+    "description": "Terms setting timelines for retrieving copies of generated data.",
+    "criteria": [
+      "Provisions governing customer retrieval of data copies during the contract term.",
+      "Provisions governing customer retrieval of data copies following contract termination.",
+      "Provisions specifying reasonable timeframes for post-termination data collection."
+    ],
+    "source_ref": "Article 13(5)(e)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Contract Termination Periods",
+    "description": "Terms governing the customer's ability to terminate the agreement within a reasonable period and restricting the provider from terminating at unreasonably short notice.",
+    "criteria": [
+      "Provisions allowing the customer to terminate the agreement within a reasonable period.",
+      "Provisions preventing the provider from terminating the contract at unreasonably short notice.",
+      "Provisions accounting for the customer's ability to switch to an alternative service before provider-initiated termination takes effect.",
+      "Provisions accounting for the financial detriment caused by provider-initiated termination."
+    ],
+    "source_ref": "Article 13(5)(d), (f)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Unilateral Contract Modifications",
+    "description": "Terms specifying provider rights to adjust contractual conditions.",
+    "criteria": [
+      "Provisions specifying valid reasons for unilateral price changes.",
+      "Provisions specifying valid reasons for unilateral data specification changes.",
+      "Provisions granting customer termination rights upon unilateral modifications.",
+      "Provisions requiring advance notice periods for contractual variations."
+    ],
+    "source_ref": "Article 13(5)(g)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Detrimental Data Exploitation Safeguards",
+    "description": "Terms restricting detrimental provider exploitation of customer proprietary data.",
+    "criteria": [
+      "Provisions restricting provider access to customer trade secrets.",
+      "Provisions restricting provider utilization of customer commercially sensitive data.",
+      "Provisions governing protection of customer intellectual property."
+    ],
+    "source_ref": "Article 13(5)(b)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Contract Termination for Switching",
+    "description": "Contract terms addressing service termination during customer switching.",
+    "criteria": [
+      "Removal of contractual obstacles to termination.",
+      "Notice period conditions for termination.",
+      "Termination triggers based on switching completion."
+    ],
+    "source_ref": "Article 23(a)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Alternative Provider Contracting",
+    "description": "Contract terms governing customer agreements with competing providers.",
+    "criteria": [
+      "Removal of commercial obstacles to entering new contracts.",
+      "Removal of contractual obstacles to entering new contracts.",
+      "Permission to engage alternative providers for identical service types."
+    ],
+    "source_ref": "Article 23(b)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Asset Portability",
+    "description": "Contract terms facilitating the extraction of assets to external destinations.",
+    "criteria": [
+      "Procedures for porting exportable data.",
+      "Procedures for porting digital assets.",
+      "Transfer capabilities targeting destination cloud providers.",
+      "Transfer capabilities targeting on-premises infrastructure.",
+      "Portability entitlements following free-tier service utilization."
+    ],
+    "source_ref": "Article 23(c)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Functional Equivalence Facilitation",
+    "description": "Contract terms regarding the maintenance of functional equivalence.",
+    "criteria": [
+      "Removal of technical barriers hindering functional equivalence.",
+      "Removal of organizational barriers hindering functional equivalence.",
+      "Facilitation of equivalent functionality within destination environments."
+    ],
+    "source_ref": "Article 23(d)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Service Unbundling",
+    "description": "Contract terms addressing the operational separation of bundled services.",
+    "criteria": [
+      "Provisions granting separation of distinct service elements.",
+      "Technical feasibility conditions governing service decoupling.",
+      "Removal of commercial barriers preventing service independence."
+    ],
+    "source_ref": "Article 23(e)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Contract Availability",
+    "description": "The contract contains writings regarding pre-signature availability.",
+    "criteria": [
+      "Clauses specifying written terms for switching.",
+      "Provisions securing pre-signing accessibility.",
+      "Terms enabling customer contract storage.",
+      "Terms enabling customer contract reproduction."
+    ],
+    "source_ref": "Article 25(1)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Switching Assistance Obligations",
+    "description": "The contract contains writings regarding provider assistance during switching.",
+    "criteria": [
+      "Provisions detailing reasonable assistance to the customer.",
+      "Provisions detailing reasonable assistance to authorized third parties.",
+      "Obligations regarding continuous business operations maintenance.",
+      "Clauses mandating risk disclosure regarding service continuity.",
+      "Requirements ensuring data security during transfer.",
+      "Provisions supporting the customer exit strategy."
+    ],
+    "source_ref": "Article 25",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Switching Timeframes",
+    "description": "The contract contains writings regarding transition timelines.",
+    "criteria": [
+      "Clauses specifying a maximum switching notice period capped at two months.",
+      "Provisions defining a mandatory maximum transitional period of thirty calendar days.",
+      "Terms establishing technical unfeasibility notification within fourteen working days.",
+      "Clauses limiting technical alternative transition periods to seven months.",
+      "Terms granting a single customer right to extend the transitional period."
+    ],
+    "source_ref": "Article 25",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Data Scope Specifications",
+    "description": "The contract contains writings defining eligible porting categories.",
+    "criteria": [
+      "Clauses providing an exhaustive specification of portable data categories.",
+      "Clauses providing an exhaustive specification of portable digital assets.",
+      "Provisions including all exportable data within scope.",
+      "Specifications detailing exempted internal provider data categories protecting trade secrets.",
+      "Terms ensuring trade secret exemptions do not delay switching."
+    ],
+    "source_ref": "Article 25",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Data Retrieval Period",
+    "description": "The contract contains writings regarding data retrieval timeframes.",
+    "criteria": [
+      "Clauses defining a minimum data retrieval period of thirty calendar days.",
+      "Provisions timing the retrieval period start after transitional period termination.",
+      "Terms mandating continued data security during retrieval."
+    ],
+    "source_ref": "Article 25(2)(g)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Data Erasure Guarantees",
+    "description": "The contract contains writings governing final data destruction.",
+    "criteria": [
+      "Clauses guaranteeing full erasure of customer-generated exportable data.",
+      "Clauses guaranteeing full erasure of directly relating digital assets.",
+      "Provisions triggering erasure after retrieval period expiration.",
+      "Provisions allowing customer notification requesting data erasure."
+    ],
+    "source_ref": "Article 25",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Contractual Switching Termination",
+    "description": "The contract contains writings defining contract termination triggers.",
+    "criteria": [
+      "Clauses deeming the contract terminated upon successful switching completion.",
+      "Provisions requiring provider notification of switching completion termination.",
+      "Terms terminating the contract upon notice period expiration for direct erasure requests."
+    ],
+    "source_ref": "Article 25(2)(c)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Switching Charges",
+    "description": "The contract contains writings detailing switching fees.",
+    "criteria": [
+      "Clauses detailing imposed switching charges.",
+      "Provisions establishing switching fee compliance conditions."
+    ],
+    "source_ref": "Article 25(2)(i)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Customer Destination Notifications",
+    "description": "The contract contains writings regarding destination selection notices.",
+    "criteria": [
+      "Clauses allowing customer notification of switching to an alternative service provider.",
+      "Provisions requiring customer submission of destination provider details.",
+      "Clauses allowing customer notification of migration to on-premises ICT infrastructure."
+    ],
+    "source_ref": "Article 25(3)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Inbound Switching Information",
+    "description": "The documentation contains information regarding switching and porting to the provider, including known restrictions and technical limitations.",
+    "criteria": [
+      "Information on available switching and porting methods.",
+      "Information on available switching and porting formats.",
+      "Information on restrictions known to the provider that affect switching and porting.",
+      "Information on technical limitations known to the provider that affect switching and porting."
+    ],
+    "source_ref": "Article 26(a)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Exportable Data Online Register",
+    "description": "The documentation references an online register detailing data export specifications.",
+    "criteria": [
+      "A reference to a provider-hosted online register.",
+      "A requirement that the online register remains up-to-date.",
+      "Details of available data structures for exportable data.",
+      "Details of available data formats for exportable data.",
+      "Details of relevant standards for exportable data.",
+      "Details of relevant open interoperability specifications for exportable data."
+    ],
+    "source_ref": "Article 26(b)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Good Faith Switching Cooperation",
+    "description": "Contractual terms govern mutual good faith cooperation among entities during switching.",
+    "criteria": [
+      "Writings establishing good faith collaboration.",
+      "Provisions designating destination provider cooperation obligations.",
+      "Measures ensuring the switching process remains effective."
+    ],
+    "source_ref": "Article 27",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Data Transfer Timeliness",
+    "description": "Contractual terms require prompt execution of data transfer operations.",
+    "criteria": [
+      "Commitments establishing timely data migration.",
+      "Specific schedules governing data transfer actions.",
+      "Measures preventing data transmission delays."
+    ],
+    "source_ref": "Article 27",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Service Continuity Maintenance",
+    "description": "Contractual terms protect data processing service continuity throughout switching.",
+    "criteria": [
+      "Provisions safeguarding continuous data processing functionality.",
+      "Protocols preventing service disruption during migration.",
+      "Requirements maintaining operational stability for the customer."
+    ],
+    "source_ref": "Article 27",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Contractual Transparency Website Listing",
+    "description": "The contract lists the website(s) publishing the Article 28(1) international-access transparency information for the data processing service(s) it covers.",
+    "criteria": [
+      "A reference to the specific website hosting the required jurisdiction and safeguards disclosures.",
+      "The website reference applies to the data processing service(s) governed by this contract.",
+      "The reference identifies international-access transparency information specifically, not a generic company or support page.",
+      "A commitment that the referenced website's transparency information is kept up to date."
+    ],
+    "source_ref": "Article 28(2)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "ICT Infrastructure Jurisdiction Transparency",
+    "description": "The documentation discloses the jurisdiction governing the ICT infrastructure used for each data processing service.",
+    "criteria": [
+      "The jurisdiction (country or legal system) governing the ICT infrastructure is named.",
+      "Jurisdiction is disclosed per individual service rather than as one blanket statement covering all services.",
+      "The disclosed jurisdiction covers the infrastructure actually used for data processing, not merely the provider's corporate domicile."
+    ],
+    "source_ref": "Article 28(1)(a)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Disclosure of Safeguards Against Foreign Governmental Interception",
+    "description": "The documentation provides a general description of the technical, organisational, and contractual measures adopted to prevent international governmental access to or transfer of non-personal Union data where this would conflict with Union or Member State law.",
+    "criteria": [
+      "Description of technical measures adopted to prevent unlawful international governmental access to or transfer of non-personal data.",
+      "Description of organisational measures adopted for the same purpose.",
+      "Description of contractual measures adopted for the same purpose."
+    ],
+    "source_ref": "Article 28(1)(b)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Switching Charge Cap and Sunset",
+    "description": "The contract contains writings regarding the amount of switching charges permitted before and after the statutory sunset date.",
+    "criteria": [
+      "Provision stating that no switching charges of any kind are imposed on the customer for the switching process from 12 January 2027 onward.",
+      "Provision permitting the provider to impose reduced switching charges for the switching process during the 11 January 2024 to 12 January 2027 transition period.",
+      "Provision limiting any transitional switching charges to costs directly incurred by the provider that are directly linked to the switching process concerned."
+    ],
+    "source_ref": "Article 29(1)-(3)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Pre-Contractual Cost Transparency",
+    "description": "The contract contains writings regarding cost transparency before contract execution.",
+    "criteria": [
+      "Disclosures specifying standard service fees prior to contract conclusion.",
+      "Disclosures detailing early termination penalties prior to contract signing.",
+      "Disclosures identifying applicable transitional reduced switching charges."
+    ],
+    "source_ref": "Article 29(4)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Switching Complexity Disclosures",
+    "description": "The contract contains writings regarding technical impediments to switching.",
+    "criteria": [
+      "Disclosures identifying services involving highly complex switching.",
+      "Disclosures identifying services involving costly switching operations.",
+      "Disclosures identifying switching scenarios causing significant data interference.",
+      "Disclosures identifying switching scenarios causing significant digital asset interference.",
+      "Disclosures identifying switching scenarios causing significant service architecture interference."
+    ],
+    "source_ref": "Article 29(5)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Public Availability of Switching Terms",
+    "description": "The contract contains writings regarding public access to the fee and switching-complexity information required to be disclosed.",
+    "criteria": [
+      "Provisions committing to publicly disclose the standard fee, termination penalty, and transitional switching charge information.",
+      "Provisions committing to publicly disclose the complex, costly, or high-interference switching disclosures.",
+      "Provisions specifying that this information is made available via a dedicated website section or another easily accessible means."
+    ],
+    "source_ref": "Article 29(6)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Infrastructure Switching Support",
+    "description": "Contractual terms addressing infrastructure provider support duties during switching.",
+    "criteria": [
+      "Provisions on achieving functional equivalence in destination services.",
+      "Terms detailing technical capabilities provided to the customer.",
+      "Provisions concerning adequate information provided to the customer about the switching process.",
+      "Provisions concerning adequate switching documentation.",
+      "Commitments to furnish technical support during migration.",
+      "Commitments to supply switching tools."
+    ],
+    "source_ref": "Article 30(1)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Open Interface Availability",
+    "description": "Contractual clauses governing open interfaces for non-infrastructure services.",
+    "criteria": [
+      "Commitments to provide open interfaces free of charge.",
+      "Terms guaranteeing equal interface access for customers.",
+      "Terms guaranteeing equal interface access for destination providers.",
+      "Inclusion of documentation enabling software communication development."
+    ],
+    "source_ref": "Article 30(2)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Interoperability Specification Compliance",
+    "description": "Contractual terms specifying adherence to recognized interoperability benchmarks.",
+    "criteria": [
+      "Commitments to achieve compatibility with common interoperability specifications.",
+      "Commitments to achieve compatibility with harmonised interoperability standards.",
+      "Adherence to the twelve-month post-publication compliance timeline.",
+      "Mandatory updates to the public online register following standards adoption."
+    ],
+    "source_ref": "Article 30(3)-(4)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Data Export Formatting",
+    "description": "Contractual terms governing data output characteristics during service switching.",
+    "criteria": [
+      "Provisions requiring export of all exportable data upon customer request.",
+      "Specifications guaranteeing structured data output.",
+      "Specifications guaranteeing commonly used data formats.",
+      "Specifications guaranteeing machine-readable data formats."
+    ],
+    "source_ref": "Article 30(5)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Switching Obligation Limitations",
+    "description": "Contractual terms defining statutory boundaries to provider switching duties.",
+    "criteria": [
+      "Exclusions regarding the development of novel technologies.",
+      "Exclusions regarding the development of novel services.",
+      "Safeguards preventing disclosure or transfer of intellectual property-protected digital assets.",
+      "Safeguards preventing disclosure or transfer of trade secret-protected digital assets.",
+      "Safeguards maintaining the security and integrity of the service."
+    ],
+    "source_ref": "Article 30(6)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Custom-Built Service Regime",
+    "description": "Documentation contains writings defining criteria qualifying services for exemption based on individualized development.",
+    "criteria": [
+      "Specifications designating the majority of main features custom-built for an individual customer.",
+      "Specifications designating all components developed for the purposes of an individual customer.",
+      "Provisions confirming the service is excluded from the broad commercial service catalogue."
+    ],
+    "source_ref": "Article 31(1)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Testing Service Regime",
+    "description": "Documentation contains writings defining temporary testing services exempt from switching obligations.",
+    "criteria": [
+      "Designation of services as non-production versions.",
+      "Specification of testing purposes.",
+      "Specification of evaluation purposes.",
+      "Contractual limitation of the operational service timeframe."
+    ],
+    "source_ref": "Article 31(2)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Pre-Contractual Exemption Disclosure",
+    "description": "Documentation contains writings informing prospective customers about inapplicable Chapter obligations.",
+    "criteria": [
+      "Disclosures delivered prior to contract conclusion.",
+      "For services qualifying under the custom-built regime, disclosure specifies that the obligations in Article 23, point (d), Article 29, and Article 30(1) and (3) do not apply.",
+      "For services qualifying under the testing and evaluation regime, disclosure specifies that all obligations of this Chapter do not apply."
+    ],
+    "source_ref": "Article 31(3)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Preventative Safeguards for International Access",
+    "description": "The contract contains writings regarding safeguards against conflicting foreign governmental access.",
+    "criteria": [
+      "Implementation of technical measures preventing unlawful foreign governmental access.",
+      "Implementation of organisational measures preventing unlawful foreign governmental access.",
+      "Contractual restrictions preventing transfers conflicting with Union law.",
+      "Contractual restrictions preventing transfers conflicting with Member State law."
+    ],
+    "source_ref": "Article 32(1)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Verification of Third-Country Access Requests",
+    "description": "The contract contains writings regarding criteria for evaluating foreign official access requests.",
+    "criteria": [
+      "Verification of applicable international agreements.",
+      "Assessment procedures for request proportionality.",
+      "Assessment procedures for request specificity.",
+      "Verification of judicial review mechanisms in the requesting jurisdiction.",
+      "Consultation protocols involving competent national authorities."
+    ],
+    "source_ref": "Article 32(2)-(3)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Data Minimization for Third-Country Disclosures",
+    "description": "The contract contains writings regarding limits on data quantities provided under foreign requests.",
+    "criteria": [
+      "Commitments to provide the minimum permissible data quantity.",
+      "Application of reasonable interpretations to request scope."
+    ],
+    "source_ref": "Article 32(4)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "Customer Notification of Governmental Requests",
+    "description": "The contract contains writings regarding customer alerts before disclosing data to foreign authorities.",
+    "criteria": [
+      "Mandatory customer notice prior to request fulfillment.",
+      "Suspension of notice preserving law enforcement effectiveness."
+    ],
+    "source_ref": "Article 32(5)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "In-Parallel Service Interoperability",
+    "description": "The contract confirms that the switching-related interoperability obligations under Articles 23, 24, 25(2) and 30(2) to (5) also apply when the data processing service is used in parallel with another provider's service, not only during switching.",
+    "criteria": [
+      "Provisions confirm that customer-facing switching obligations under Articles 23, 24 and 25(2) also apply to support use of the service in parallel with another data processing service, not solely upon contract termination.",
+      "Provisions confirm that technical interface obligations — open interfaces and interoperability specifications under Article 30(2) to (5) — apply to enable concurrent operation with another provider's data processing service.",
+      "Contract terms address interoperability specifically for ongoing, simultaneous use of multiple data processing services, rather than limiting such terms to the switching or exit process alone."
+    ],
+    "source_ref": "Article 34(1)",
+    "regulation": "EU Data Act"
+  },
+  {
+    "title": "In-Parallel Data Egress Cost Restrictions",
+    "description": "The contract contains writings regarding data egress fees when the service is used in parallel with another data processing service, limited to passing on the actual costs incurred.",
+    "criteria": [
+      "Provisions confirm that data egress charges may be imposed only in connection with use of the service in parallel with another data processing service.",
+      "Provisions limit the purpose of such egress charges to passing on the egress costs actually incurred by the provider, excluding any other charge purpose such as a profit margin.",
+      "Provisions cap egress charges so that they do not exceed the actual costs incurred, regardless of the stated purpose of the charge."
+    ],
+    "source_ref": "Article 34(2)",
+    "regulation": "EU Data Act"
+  }
+]

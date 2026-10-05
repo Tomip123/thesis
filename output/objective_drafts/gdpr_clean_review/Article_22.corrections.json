@@ -1,0 +1,48 @@
+{
+  "objectives": [
+    {
+      "title": "Automated Decision-Making Prohibition",
+      "description": "The contract addresses the data subject's right not to be subject to a decision based solely on automated processing, including profiling.",
+      "criteria": [
+        "Clauses addressing the right not to be subject to decisions based solely on automated processing that produce legal effects concerning the data subject.",
+        "Clauses addressing the right not to be subject to decisions based solely on automated processing that similarly significantly affect the data subject.",
+        "Confirmation that profiling is included within the scope of the automated decision-making covered."
+      ],
+      "source_ref": "Article 22(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Automated Decision-Making Exception Grounds",
+      "description": "The contract specifies the legal grounds under which decisions based solely on automated processing, including profiling, may be permitted.",
+      "criteria": [
+        "Terms establishing that automated decisions are permitted when necessary for entering into or performing a contract between the data subject and the controller.",
+        "Terms establishing that automated decisions are permitted when authorised by Union or Member State law that lays down suitable safeguards for the data subject's rights, freedoms, and legitimate interests.",
+        "Terms establishing that automated decisions are permitted when based on the data subject's explicit consent."
+      ],
+      "source_ref": "Article 22(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Human Review Mechanisms",
+      "description": "The contract defines protocols for human involvement concerning automated outcomes.",
+      "criteria": [
+        "Procedures enabling data subjects to obtain human intervention.",
+        "Mechanisms allowing data subjects to express their viewpoint.",
+        "Processes permitting data subjects to contest automated decisions."
+      ],
+      "source_ref": "Article 22(3)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Sensitive Data Processing Restrictions",
+      "description": "The contract regulates automated evaluations involving special categories of personal data.",
+      "criteria": [
+        "Prohibitions against automated decisions under paragraph 2 being based on special categories of personal data referred to in Article 9(1).",
+        "Exceptions permitting use of special category data in automated decisions only where the explicit consent (Article 9(2)(a)) or substantial public interest (Article 9(2)(g)) grounds apply.",
+        "Measures safeguarding the data subject's rights, freedoms, and legitimate interests when special category data is used in automated decisions."
+      ],
+      "source_ref": "Article 22(4)",
+      "regulation": "GDPR"
+    }
+  ]
+}

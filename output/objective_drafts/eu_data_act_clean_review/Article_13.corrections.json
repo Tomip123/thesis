@@ -1,0 +1,94 @@
+{
+  "objectives": [
+    {
+      "title": "Liability and Remedy Exclusions",
+      "description": "Terms that exclude or limit the imposing party's liability for its own wrongdoing, or that exclude the other party's remedies or the imposing party's liability for breach of its obligations.",
+      "criteria": [
+        "Clauses excluding or limiting the imposing party's liability for intentional acts.",
+        "Clauses excluding or limiting the imposing party's liability for gross negligence.",
+        "Clauses excluding the remedies available to the other party in the case of the imposing party's nonperformance.",
+        "Clauses excluding the imposing party's liability in the case of a breach of its own contractual obligations."
+      ],
+      "source_ref": "Article 13(4)(a)-(b)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Presumed Unfair Remedy and Liability Limitations",
+      "description": "Terms that inappropriately limit the other party's remedies or the imposing party's liability without outright excluding them, or that extend the other party's own liability.",
+      "criteria": [
+        "Clauses inappropriately limiting the remedies available to the other party in the case of the imposing party's nonperformance.",
+        "Clauses inappropriately limiting the imposing party's liability in the case of a breach of its obligations.",
+        "Clauses extending the liability of the party upon whom the term was unilaterally imposed."
+      ],
+      "source_ref": "Article 13(5)(a)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Contract Interpretation Discretion",
+      "description": "Terms reserving to the imposing party sole authority to determine data conformity or to interpret contractual terms.",
+      "criteria": [
+        "Clauses reserving to the imposing party sole authority to determine whether the data supplied conform to the contract.",
+        "Clauses reserving to the imposing party sole authority to interpret contractual terms."
+      ],
+      "source_ref": "Article 13(4)(c)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Customer Data Access Rights",
+      "description": "Terms establishing the customer right to use generated data.",
+      "criteria": [
+        "Provisions permitting customer access to generated data.",
+        "Provisions permitting customer use of generated data.",
+        "Provisions securing customer exploitation of data value."
+      ],
+      "source_ref": "Article 13(5)(c)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Data Copy Retrieval",
+      "description": "Terms setting timelines for retrieving copies of generated data.",
+      "criteria": [
+        "Provisions governing customer retrieval of data copies during the contract term.",
+        "Provisions governing customer retrieval of data copies following contract termination.",
+        "Provisions specifying reasonable timeframes for post-termination data collection."
+      ],
+      "source_ref": "Article 13(5)(e)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Contract Termination Periods",
+      "description": "Terms governing the customer's ability to terminate the agreement within a reasonable period and restricting the provider from terminating at unreasonably short notice.",
+      "criteria": [
+        "Provisions allowing the customer to terminate the agreement within a reasonable period.",
+        "Provisions preventing the provider from terminating the contract at unreasonably short notice.",
+        "Provisions accounting for the customer's ability to switch to an alternative service before provider-initiated termination takes effect.",
+        "Provisions accounting for the financial detriment caused by provider-initiated termination."
+      ],
+      "source_ref": "Article 13(5)(d), (f)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Unilateral Contract Modifications",
+      "description": "Terms specifying provider rights to adjust contractual conditions.",
+      "criteria": [
+        "Provisions specifying valid reasons for unilateral price changes.",
+        "Provisions specifying valid reasons for unilateral data specification changes.",
+        "Provisions granting customer termination rights upon unilateral modifications.",
+        "Provisions requiring advance notice periods for contractual variations."
+      ],
+      "source_ref": "Article 13(5)(g)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "Detrimental Data Exploitation Safeguards",
+      "description": "Terms restricting detrimental provider exploitation of customer proprietary data.",
+      "criteria": [
+        "Provisions restricting provider access to customer trade secrets.",
+        "Provisions restricting provider utilization of customer commercially sensitive data.",
+        "Provisions governing protection of customer intellectual property."
+      ],
+      "source_ref": "Article 13(5)(b)",
+      "regulation": "EU Data Act"
+    }
+  ]
+}

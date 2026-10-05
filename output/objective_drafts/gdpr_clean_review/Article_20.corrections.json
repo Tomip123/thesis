@@ -1,0 +1,37 @@
+{
+  "objectives": [
+    {
+      "title": "Data Extraction Format",
+      "description": "The contract contains provisions regarding the format of exported personal data.",
+      "criteria": [
+        "Provisions specifying structured data formats.",
+        "Provisions specifying commonly used data formats.",
+        "Provisions specifying machine-readable data formats."
+      ],
+      "source_ref": "Article 20(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Unimpeded Data Transmission",
+      "description": "The contract contains provisions addressing data transmission to alternative providers.",
+      "criteria": [
+        "Provisions prohibiting provider hindrance during data transfers.",
+        "Provisions supporting direct controller-to-controller transmission mechanisms.",
+        "Provisions defining technical feasibility thresholds for transmission."
+      ],
+      "source_ref": "Article 20",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Portability Right Limitations",
+      "description": "The contract contains provisions addressing limitations and exclusions on the exercise of the data portability right.",
+      "criteria": [
+        "Provisions clarifying that the portability right is exercised without prejudice to the right to erasure under Article 17.",
+        "Provisions excluding the portability right for processing necessary for a task carried out in the public interest or in the exercise of official authority vested in the controller.",
+        "Provisions ensuring the exercise of the portability right does not adversely affect the rights and freedoms of third parties."
+      ],
+      "source_ref": "Article 20(3)-(4)",
+      "regulation": "GDPR"
+    }
+  ]
+}

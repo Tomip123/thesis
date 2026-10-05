@@ -1,0 +1,15 @@
+{
+  "objectives": [
+    {
+      "title": "Third-Country Legal Order Handling",
+      "description": "The contract contains writings addressing whether and how foreign court judgments or administrative decisions demanding personal data transfer or disclosure will be recognised or enforced.",
+      "criteria": [
+        "Default non-recognition or non-enforceability of foreign judgments and administrative decisions compelling transfer or disclosure of personal data, absent a qualifying legal basis.",
+        "Recognition or enforcement is conditioned on an international agreement (e.g. a mutual legal assistance treaty) in force between the requesting third country and the Union or a Member State.",
+        "Preservation of other Chapter V transfer grounds (e.g. adequacy decisions, appropriate safeguards, derogations) as independent bases for transfer unaffected by this provision."
+      ],
+      "source_ref": "Article 48",
+      "regulation": "GDPR"
+    }
+  ]
+}

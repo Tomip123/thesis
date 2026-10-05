@@ -1,0 +1,50 @@
+{
+  "objectives": [
+    {
+      "title": "Demonstration of Consent",
+      "description": "The contract contains terms establishing records proving data subject consent.",
+      "criteria": [
+        "Provisions requiring records to be kept evidencing that data subject consent was obtained.",
+        "Provisions specifying retention of consent records for as long as necessary to demonstrate consent.",
+        "Provisions addressing provider support in producing consent evidence to the controller on request."
+      ],
+      "source_ref": "Article 7(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Presentation of Consent Requests",
+      "description": "The documentation contains specifications ensuring consent requests remain separate from other contractual terms.",
+      "criteria": [
+        "Terms requiring consent requests be clearly distinguishable from general contractual clauses.",
+        "Provisions mandating intelligible presentation formats for consent.",
+        "Clauses requiring easily accessible formats for consent requests.",
+        "Requirements prescribing plain language."
+      ],
+      "source_ref": "Article 7(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Consent Withdrawal Execution",
+      "description": "The contract defines procedures enabling data subjects to revoke consent at any time.",
+      "criteria": [
+        "Clauses securing the right to revoke consent at any point.",
+        "Terms confirming the legality of prior processing remains unaffected by withdrawal.",
+        "Provisions requiring pre-consent notification of withdrawal rights.",
+        "Mechanisms ensuring withdrawal difficulty matches granting difficulty."
+      ],
+      "source_ref": "Article 7(3)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Non-Conditional Service Delivery",
+      "description": "The contract addresses the separation of service delivery from non-essential processing consent.",
+      "criteria": [
+        "Provisions prohibiting service denial based solely on refusal of non-essential processing consent.",
+        "Clauses assessing the necessity of processing activities relative to the primary contract.",
+        "Provisions allowing the data subject to consent separately to non-necessary processing, independent of acceptance of the core service terms."
+      ],
+      "source_ref": "Article 7(4)",
+      "regulation": "GDPR"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "objectives": [
+    {
+      "title": "Downstream Recipient Notification",
+      "description": "The contract contains provisions regarding notifying third-party recipients of personal data changes.",
+      "criteria": [
+        "Writings requiring communication of personal data rectifications to recipients.",
+        "Writings requiring communication of personal data erasures to recipients.",
+        "Writings requiring communication of processing restrictions to recipients.",
+        "Contractual terms defining exemptions due to impossibility.",
+        "Contractual terms defining exemptions due to disproportionate effort."
+      ],
+      "source_ref": "Article 19",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Recipient Information Provision",
+      "description": "The contract contains provisions regarding disclosing recipient identities to data subjects.",
+      "criteria": [
+        "Procedures for processing data subject requests regarding recipient identities.",
+        "Scope of disclosure limited to the recipients notified of the rectification, erasure, or restriction, rather than all recipients generally.",
+        "Obligations to disclose recipient lists to the data subject."
+      ],
+      "source_ref": "Article 19",
+      "regulation": "GDPR"
+    }
+  ]
+}

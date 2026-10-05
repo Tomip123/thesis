@@ -1,0 +1,26 @@
+{
+  "objectives": [
+    {
+      "title": "In-Parallel Service Interoperability",
+      "description": "The contract confirms that the switching-related interoperability obligations under Articles 23, 24, 25(2) and 30(2) to (5) also apply when the data processing service is used in parallel with another provider's service, not only during switching.",
+      "criteria": [
+        "Provisions confirm that customer-facing switching obligations under Articles 23, 24 and 25(2) also apply to support use of the service in parallel with another data processing service, not solely upon contract termination.",
+        "Provisions confirm that technical interface obligations — open interfaces and interoperability specifications under Article 30(2) to (5) — apply to enable concurrent operation with another provider's data processing service.",
+        "Contract terms address interoperability specifically for ongoing, simultaneous use of multiple data processing services, rather than limiting such terms to the switching or exit process alone."
+      ],
+      "source_ref": "Article 34(1)",
+      "regulation": "EU Data Act"
+    },
+    {
+      "title": "In-Parallel Data Egress Cost Restrictions",
+      "description": "The contract contains writings regarding data egress fees when the service is used in parallel with another data processing service, limited to passing on the actual costs incurred.",
+      "criteria": [
+        "Provisions confirm that data egress charges may be imposed only in connection with use of the service in parallel with another data processing service.",
+        "Provisions limit the purpose of such egress charges to passing on the egress costs actually incurred by the provider, excluding any other charge purpose such as a profit margin.",
+        "Provisions cap egress charges so that they do not exceed the actual costs incurred, regardless of the stated purpose of the charge."
+      ],
+      "source_ref": "Article 34(2)",
+      "regulation": "EU Data Act"
+    }
+  ]
+}

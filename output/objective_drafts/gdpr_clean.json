@@ -1,0 +1,1295 @@
+[
+  {
+    "title": "Lawful Processing Governance",
+    "description": "The contract contains writings regarding lawful data handling procedures.",
+    "criteria": [
+      "Provisions specifying the legal basis for processing.",
+      "Writings defining fairness standards applied to data subjects.",
+      "Requirements for transparent processing notifications."
+    ],
+    "source_ref": "Article 5(1)(a)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Purpose Specification",
+    "description": "The contract contains writings regarding data processing boundaries.",
+    "criteria": [
+      "Specification of explicit processing purposes.",
+      "Prohibitions against incompatible secondary processing operations.",
+      "Protocols for public interest research processing exceptions."
+    ],
+    "source_ref": "Article 5(1)(b)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Minimisation Standards",
+    "description": "The contract contains writings regarding data volume restrictions.",
+    "criteria": [
+      "Clauses restricting data collection to adequate limits.",
+      "Provisions enforcing data processing relevance.",
+      "Writings limiting stored data strictly to necessary operational requirements."
+    ],
+    "source_ref": "Article 5(1)(c)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Accuracy Management",
+    "description": "The contract contains writings regarding data precision maintenance.",
+    "criteria": [
+      "Procedures ensuring data precision.",
+      "Schedules governing systematic record updates.",
+      "Mechanisms executing immediate inaccurate data erasure.",
+      "Processes executing prompt inaccurate data rectification."
+    ],
+    "source_ref": "Article 5(1)(d)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Storage Limitation Protocols",
+    "description": "The contract contains writings regarding data retention boundaries.",
+    "criteria": [
+      "Defined data retention periods tied to the purposes for which the data is processed.",
+      "Mechanisms for deleting or anonymising personal data once it is no longer needed for those purposes.",
+      "Recognition of exceptions allowing longer storage solely for archiving in the public interest, scientific or historical research, or statistical purposes.",
+      "Required technical and organisational safeguards for personal data retained under those extended-storage exceptions."
+    ],
+    "source_ref": "Article 5(1)(e)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Security Safeguards",
+    "description": "The contract contains writings regarding data protection measures.",
+    "criteria": [
+      "Technical and organisational measures to prevent unauthorised or unlawful processing.",
+      "Measures preventing accidental loss of personal data.",
+      "Measures preventing accidental destruction of personal data.",
+      "Measures preventing accidental damage to personal data."
+    ],
+    "source_ref": "Article 5(1)(f)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Accountability Documentation",
+    "description": "The contract contains writings regarding compliance demonstration.",
+    "criteria": [
+      "Protocols establishing controller responsibility.",
+      "Provisions mandating compliance recordkeeping.",
+      "Procedures demonstrating adherence through verifiable audits."
+    ],
+    "source_ref": "Article 5(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Lawful Grounds Identification",
+    "description": "The contract contains provisions identifying legal grounds governing cloud operations.",
+    "criteria": [
+      "Provisions documenting data subject consent.",
+      "Provisions establishing contract performance necessity.",
+      "Provisions documenting controller statutory compliance.",
+      "Provisions detailing controller legitimate interests."
+    ],
+    "source_ref": "Article 6(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Compatible Secondary Processing Assessment",
+    "description": "The contract evaluates new processing beyond initial collection purposes.",
+    "criteria": [
+      "Clauses evaluating purpose linkages.",
+      "Clauses assessing data collection context.",
+      "Clauses evaluating special category data presence.",
+      "Clauses evaluating consequences targeting data subjects.",
+      "Clauses evaluating the existence of appropriate technical safeguards, such as encryption or pseudonymisation."
+    ],
+    "source_ref": "Article 6(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Demonstration of Consent",
+    "description": "The contract contains terms establishing records proving data subject consent.",
+    "criteria": [
+      "Provisions requiring records to be kept evidencing that data subject consent was obtained.",
+      "Provisions specifying retention of consent records for as long as necessary to demonstrate consent.",
+      "Provisions addressing provider support in producing consent evidence to the controller on request."
+    ],
+    "source_ref": "Article 7(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Presentation of Consent Requests",
+    "description": "The documentation contains specifications ensuring consent requests remain separate from other contractual terms.",
+    "criteria": [
+      "Terms requiring consent requests be clearly distinguishable from general contractual clauses.",
+      "Provisions mandating intelligible presentation formats for consent.",
+      "Clauses requiring easily accessible formats for consent requests.",
+      "Requirements prescribing plain language."
+    ],
+    "source_ref": "Article 7(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Consent Withdrawal Execution",
+    "description": "The contract defines procedures enabling data subjects to revoke consent at any time.",
+    "criteria": [
+      "Clauses securing the right to revoke consent at any point.",
+      "Terms confirming the legality of prior processing remains unaffected by withdrawal.",
+      "Provisions requiring pre-consent notification of withdrawal rights.",
+      "Mechanisms ensuring withdrawal difficulty matches granting difficulty."
+    ],
+    "source_ref": "Article 7(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Non-Conditional Service Delivery",
+    "description": "The contract addresses the separation of service delivery from non-essential processing consent.",
+    "criteria": [
+      "Provisions prohibiting service denial based solely on refusal of non-essential processing consent.",
+      "Clauses assessing the necessity of processing activities relative to the primary contract.",
+      "Provisions allowing the data subject to consent separately to non-necessary processing, independent of acceptance of the core service terms."
+    ],
+    "source_ref": "Article 7(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Special Category Data Processing Restrictions",
+    "description": "The contract contains writings regarding prohibitions on processing special categories of personal data.",
+    "criteria": [
+      "Clauses identifying restrictions on processing data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership.",
+      "Clauses identifying restrictions on processing genetic data.",
+      "Clauses identifying restrictions on processing biometric data used for unique identification.",
+      "Clauses identifying restrictions on processing health data.",
+      "Clauses identifying restrictions on processing data concerning sex life or sexual orientation."
+    ],
+    "source_ref": "Article 9(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Explicit Consent Verification for Sensitive Data",
+    "description": "The contract contains writings regarding explicit consent mechanisms for sensitive data processing.",
+    "criteria": [
+      "Provisions verifying customer acquisition of explicit data subject consent.",
+      "Mechanisms recording specific purposes for processing sensitive data.",
+      "Clauses acknowledging that applicable Union or Member State law may bar explicit consent from lifting the special category processing prohibition."
+    ],
+    "source_ref": "Article 9(2)(a)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Professional Secrecy Safeguards",
+    "description": "The contract contains writings regarding professional secrecy duties applicable to personnel handling sensitive health information.",
+    "criteria": [
+      "Contractual secrecy commitments binding cloud provider personnel.",
+      "Statutory professional secrecy governance clauses.",
+      "Duty of confidentiality declarations for medical data handlers."
+    ],
+    "source_ref": "Article 9(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Jurisdictional Sensitive Data Limitations",
+    "description": "The contract contains writings regarding national law limitations on sensitive data.",
+    "criteria": [
+      "Provisions addressing national statutory restrictions on genetic data.",
+      "Provisions addressing national statutory restrictions on biometric data.",
+      "Provisions addressing national statutory restrictions on health data."
+    ],
+    "source_ref": "Article 9(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Special Category Lawful Basis Identification",
+    "description": "The contract contains writings identifying legal bases, other than explicit consent, that permit processing special categories of personal data.",
+    "criteria": [
+      "Provisions identifying employment, social security, or social protection law as the basis for processing special category data.",
+      "Provisions identifying preventive or occupational medicine, medical diagnosis, or health or social care purposes as the basis for processing special category data.",
+      "Provisions identifying substantial public interest or public health grounds as the basis for processing special category data.",
+      "Provisions identifying archiving, scientific, historical research, or statistical purposes as the basis for processing special category data."
+    ],
+    "source_ref": "Article 9(2)(b)-(j)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Access Request Processing",
+    "description": "Contractual writings address subject requests to access personal data.",
+    "criteria": [
+      "Procedures confirming active personal data processing.",
+      "Clauses granting access to personal data undergoing processing.",
+      "Specifications stating processing purposes.",
+      "Documentation listing processed personal data categories."
+    ],
+    "source_ref": "Article 15(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Recipient Disclosure Transparency",
+    "description": "Contractual terms document personal data recipients.",
+    "criteria": [
+      "Listings identifying personal data recipients.",
+      "Specifications identifying recipient categories.",
+      "Identification of third-country destinations.",
+      "Identification of international entity recipients."
+    ],
+    "source_ref": "Article 15(1)(c)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Retention Period Documentation",
+    "description": "Contractual clauses specify personal data storage duration.",
+    "criteria": [
+      "Stated personal data retention durations.",
+      "Established criteria fixing storage time limits when a fixed duration cannot be stated."
+    ],
+    "source_ref": "Article 15(1)(d)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "International Transfer Safeguards",
+    "description": "Contractual clauses govern international transfer protection disclosures.",
+    "criteria": [
+      "Disclosures detailing third country transfer safeguards.",
+      "Disclosures detailing international entity transfer safeguards.",
+      "Identification of the specific Article 46 transfer mechanism relied upon (e.g. standard contractual clauses, binding corporate rules)."
+    ],
+    "source_ref": "Article 15(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Copy Delivery Terms",
+    "description": "Contractual terms govern personal data copy provision and related safeguards.",
+    "criteria": [
+      "Procedures delivering the initial personal data copy.",
+      "Administrative fees charged for supplementary copies.",
+      "Delivery utilizing commonly used electronic formats.",
+      "Safeguards ensuring copy provision does not adversely affect the rights and freedoms of other individuals."
+    ],
+    "source_ref": "Article 15(3)-(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Subject Rights Notice",
+    "description": "Contractual writings address disclosure of related data subject rights within an access response.",
+    "criteria": [
+      "Notice of the right to request rectification of personal data.",
+      "Notice of the right to request erasure of personal data or restriction of its processing.",
+      "Notice of the right to object to processing of personal data.",
+      "Notice of the right to lodge a complaint with a supervisory authority."
+    ],
+    "source_ref": "Article 15(1)(e)-(f)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Source Disclosure",
+    "description": "Contractual writings address disclosure of the origin of personal data not collected from the data subject.",
+    "criteria": [
+      "Disclosure of the source of personal data when not collected directly from the data subject.",
+      "Identification of the specific source or category of source from which the personal data originated."
+    ],
+    "source_ref": "Article 15(1)(g)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Automated Decision-Making Disclosure",
+    "description": "Contractual writings address disclosure of automated decision-making and profiling in response to access requests.",
+    "criteria": [
+      "Disclosure of the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4).",
+      "Provision of meaningful information about the logic involved in such automated decision-making.",
+      "Disclosure of the significance of such processing for the data subject.",
+      "Disclosure of the envisaged consequences of such processing for the data subject."
+    ],
+    "source_ref": "Article 15(1)(h)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Rectification Mechanisms",
+    "description": "The contract contains writings regarding correcting inaccurate personal data.",
+    "criteria": [
+      "Provisions detailing the rectification of inaccurate data.",
+      "Mechanisms enabling data subject correction requests.",
+      "Technical measures facilitating data modifications."
+    ],
+    "source_ref": "Article 16",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Completion of Incomplete Personal Data",
+    "description": "The contract contains writings regarding completing incomplete records.",
+    "criteria": [
+      "Provisions governing the completion of incomplete data.",
+      "Mechanisms permitting supplementary statements.",
+      "Procedures assessing processing purposes during data completion."
+    ],
+    "source_ref": "Article 16",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Rectification Timelines",
+    "description": "The contract contains writings regarding execution timelines for corrections.",
+    "criteria": [
+      "Provisions specifying execution without undue delay.",
+      "Timeframes governing processor responses to correction instructions.",
+      "Confirmation to the controller upon completion of a correction within the specified timeframe."
+    ],
+    "source_ref": "Article 16",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Erasure Timelines",
+    "description": "The contract contains writings regarding timelines for executing erasure requests.",
+    "criteria": [
+      "Commitment to erase personal data without undue delay.",
+      "Defined turnaround times for processing customer deletion instructions.",
+      "Procedures for confirming data deletion completion."
+    ],
+    "source_ref": "Article 17(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Deletion Triggers",
+    "description": "The contract contains writings regarding triggers for personal data deletion.",
+    "criteria": [
+      "Deletion triggered when personal data exceeds original necessity.",
+      "Deletion triggered upon customer consent withdrawal notifications.",
+      "Deletion triggered following valid customer processing objections.",
+      "Deletion triggered by unlawful processing determinations.",
+      "Deletion triggered by statutory Union legal mandates.",
+      "Deletion triggered by withdrawal of a child's consent to information society services under Article 8(1)."
+    ],
+    "source_ref": "Article 17(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Downstream Replication Notification",
+    "description": "The contract contains writings regarding notifications to third parties concerning replicated personal data.",
+    "criteria": [
+      "Technical measures informing third-party controllers regarding erasure requests.",
+      "Procedures identifying links to erased data.",
+      "Procedures identifying copies of erased data.",
+      "Procedures identifying replications of erased data."
+    ],
+    "source_ref": "Article 17(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Retention Exceptions",
+    "description": "The contract contains writings regarding exemptions from deletion obligations.",
+    "criteria": [
+      "Retention permissions justified by legal obligations, public-interest tasks, or official authority.",
+      "Retention permissions justified by public health reasons.",
+      "Retention permissions supporting archiving, scientific, historical research, or statistical purposes.",
+      "Retention permissions supporting the exercise of freedom of expression and information.",
+      "Retention permissions supporting the establishment, exercise, or defense of legal claims."
+    ],
+    "source_ref": "Article 17(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Processing Restriction Measures",
+    "description": "The contract contains writings regarding mechanisms or procedures to restrict data processing operations upon the data subject's request.",
+    "criteria": [
+      "Mechanisms enabling data processing suspension upon data accuracy challenges.",
+      "Provisions restricting data processing when erasure is contested.",
+      "Procedures preserving data needed exclusively for legal claims.",
+      "Mechanisms freezing processing activities pending objection assessments."
+    ],
+    "source_ref": "Article 18(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Management of Restricted Data",
+    "description": "The contract contains writings defining permissible processing actions during an active restriction.",
+    "criteria": [
+      "Limitation of restricted personal data activities to storage exclusively.",
+      "Requirement of the data subject's consent for active processing during restrictions.",
+      "Allowance of restricted data processing strictly for legal claims defense.",
+      "Allowance of restricted data processing for third-party protection.",
+      "Allowance of restricted data processing for public interest grounds."
+    ],
+    "source_ref": "Article 18(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Notification of Restriction Removal",
+    "description": "The contract contains writings regarding communication preceding the lifting of processing restrictions.",
+    "criteria": [
+      "Requirements for prior notification before lifting processing restrictions.",
+      "Specified timelines for notifying the customer before restriction removal."
+    ],
+    "source_ref": "Article 18(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Downstream Recipient Notification",
+    "description": "The contract contains provisions regarding notifying third-party recipients of personal data changes.",
+    "criteria": [
+      "Writings requiring communication of personal data rectifications to recipients.",
+      "Writings requiring communication of personal data erasures to recipients.",
+      "Writings requiring communication of processing restrictions to recipients.",
+      "Contractual terms defining exemptions due to impossibility.",
+      "Contractual terms defining exemptions due to disproportionate effort."
+    ],
+    "source_ref": "Article 19",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Recipient Information Provision",
+    "description": "The contract contains provisions regarding disclosing recipient identities to data subjects.",
+    "criteria": [
+      "Procedures for processing data subject requests regarding recipient identities.",
+      "Scope of disclosure limited to the recipients notified of the rectification, erasure, or restriction, rather than all recipients generally.",
+      "Obligations to disclose recipient lists to the data subject."
+    ],
+    "source_ref": "Article 19",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Extraction Format",
+    "description": "The contract contains provisions regarding the format of exported personal data.",
+    "criteria": [
+      "Provisions specifying structured data formats.",
+      "Provisions specifying commonly used data formats.",
+      "Provisions specifying machine-readable data formats."
+    ],
+    "source_ref": "Article 20(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Unimpeded Data Transmission",
+    "description": "The contract contains provisions addressing data transmission to alternative providers.",
+    "criteria": [
+      "Provisions prohibiting provider hindrance during data transfers.",
+      "Provisions supporting direct controller-to-controller transmission mechanisms.",
+      "Provisions defining technical feasibility thresholds for transmission."
+    ],
+    "source_ref": "Article 20",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Portability Right Limitations",
+    "description": "The contract contains provisions addressing limitations and exclusions on the exercise of the data portability right.",
+    "criteria": [
+      "Provisions clarifying that the portability right is exercised without prejudice to the right to erasure under Article 17.",
+      "Provisions excluding the portability right for processing necessary for a task carried out in the public interest or in the exercise of official authority vested in the controller.",
+      "Provisions ensuring the exercise of the portability right does not adversely affect the rights and freedoms of third parties."
+    ],
+    "source_ref": "Article 20(3)-(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "General Right to Object Implementation",
+    "description": "The contract contains writings regarding data subject objections to processing based on public-interest/official-authority or legitimate-interest grounds, including related profiling.",
+    "criteria": [
+      "Mechanisms enabling data subjects to submit objections based on particular situations.",
+      "Processes halting processing upon receipt of an objection.",
+      "Procedures evaluating compelling legitimate grounds overriding data subject interests.",
+      "Procedures assessing processing necessary for legal claims defense.",
+      "Provisions confirming the objection right extends to profiling carried out under those processing grounds."
+    ],
+    "source_ref": "Article 21(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Direct Marketing Objection Handling",
+    "description": "The contract contains writings regarding objections to direct marketing activities.",
+    "criteria": [
+      "Mechanisms recording data subject objections to direct marketing.",
+      "Terms prohibiting personal data processing for direct marketing following an objection.",
+      "Terms prohibiting direct marketing profiling following an objection."
+    ],
+    "source_ref": "Article 21(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Presentation of Objection Rights",
+    "description": "The contract contains writings regarding notification procedures for objection rights.",
+    "criteria": [
+      "Provisions explicitly presenting the right to object at initial communication.",
+      "Provisions presenting the right to object separately from unrelated information.",
+      "Specifications requiring clear formatting for objection notices."
+    ],
+    "source_ref": "Article 21(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Automated Objection Procedures",
+    "description": "The contract contains writings regarding technical mechanisms for exercising objections.",
+    "criteria": [
+      "Technical specifications enabling data subjects to exercise the right to object by automated means within information society services.",
+      "System capabilities recognizing and honoring automated objection signals as valid objections."
+    ],
+    "source_ref": "Article 21(5)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Research Processing Objections",
+    "description": "The contract contains writings regarding objections to research data processing.",
+    "criteria": [
+      "Mechanisms handling objections to scientific research processing.",
+      "Mechanisms handling objections to statistical processing.",
+      "Verification procedures establishing public interest processing exemptions."
+    ],
+    "source_ref": "Article 21(6)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Automated Decision-Making Prohibition",
+    "description": "The contract addresses the data subject's right not to be subject to a decision based solely on automated processing, including profiling.",
+    "criteria": [
+      "Clauses addressing the right not to be subject to decisions based solely on automated processing that produce legal effects concerning the data subject.",
+      "Clauses addressing the right not to be subject to decisions based solely on automated processing that similarly significantly affect the data subject.",
+      "Confirmation that profiling is included within the scope of the automated decision-making covered."
+    ],
+    "source_ref": "Article 22(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Automated Decision-Making Exception Grounds",
+    "description": "The contract specifies the legal grounds under which decisions based solely on automated processing, including profiling, may be permitted.",
+    "criteria": [
+      "Terms establishing that automated decisions are permitted when necessary for entering into or performing a contract between the data subject and the controller.",
+      "Terms establishing that automated decisions are permitted when authorised by Union or Member State law that lays down suitable safeguards for the data subject's rights, freedoms, and legitimate interests.",
+      "Terms establishing that automated decisions are permitted when based on the data subject's explicit consent."
+    ],
+    "source_ref": "Article 22(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Human Review Mechanisms",
+    "description": "The contract defines protocols for human involvement concerning automated outcomes.",
+    "criteria": [
+      "Procedures enabling data subjects to obtain human intervention.",
+      "Mechanisms allowing data subjects to express their viewpoint.",
+      "Processes permitting data subjects to contest automated decisions."
+    ],
+    "source_ref": "Article 22(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Sensitive Data Processing Restrictions",
+    "description": "The contract regulates automated evaluations involving special categories of personal data.",
+    "criteria": [
+      "Prohibitions against automated decisions under paragraph 2 being based on special categories of personal data referred to in Article 9(1).",
+      "Exceptions permitting use of special category data in automated decisions only where the explicit consent (Article 9(2)(a)) or substantial public interest (Article 9(2)(g)) grounds apply.",
+      "Measures safeguarding the data subject's rights, freedoms, and legitimate interests when special category data is used in automated decisions."
+    ],
+    "source_ref": "Article 22(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Technical and Organizational Measures Governance",
+    "description": "The contract contains writings regarding technical and organizational processing controls.",
+    "criteria": [
+      "Specifications defining implemented technical and organizational measures.",
+      "Protocols reviewing technical and organizational measures.",
+      "Mechanisms updating technical and organizational measures.",
+      "Evidence demonstrating that processing is performed in accordance with the Regulation."
+    ],
+    "source_ref": "Article 24(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Protection Policies",
+    "description": "The contract contains writings regarding formal data protection policies.",
+    "criteria": [
+      "Commitments establishing formal data protection policies.",
+      "Provisions governing data protection policy implementation.",
+      "Data protection policies scoped appropriately to the nature and risk of processing activities."
+    ],
+    "source_ref": "Article 24(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Independent Compliance Demonstration",
+    "description": "The contract contains writings regarding external mechanisms proving regulatory adherence.",
+    "criteria": [
+      "Provisions referencing approved codes of conduct.",
+      "Provisions referencing approved certification mechanisms.",
+      "Recognition that such adherence is one element, not sole proof, of demonstrating compliance."
+    ],
+    "source_ref": "Article 24(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Protection by Design Safeguards",
+    "description": "The contract contains writings regarding technical and organisational measures integrated into system architecture and processing operations.",
+    "criteria": [
+      "Specifications regarding pseudonymisation capabilities.",
+      "Provisions regarding data minimisation mechanisms.",
+      "Clauses addressing state-of-the-art security implementation.",
+      "Requirements for integrating safeguards into processing workflows.",
+      "Application of design safeguards both when determining the means of processing and throughout the processing itself."
+    ],
+    "source_ref": "Article 25(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Protection by Default Settings",
+    "description": "The contract contains writings regarding baseline system settings restricting personal data usage.",
+    "criteria": [
+      "Default limitations on personal data collection volumes.",
+      "Default restrictions on the scope of data processing.",
+      "Automatic limits on data storage duration.",
+      "Default settings preventing public accessibility of personal data."
+    ],
+    "source_ref": "Article 25(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Compliance Certification Alignment",
+    "description": "The contract contains writings regarding an approved Article 42 certification mechanism used as evidence of data-protection-by-design-and-default compliance.",
+    "criteria": [
+      "References to an approved certification mechanism pursuant to Article 42.",
+      "The certification is cited specifically as evidence of compliance with the by-design and by-default obligations of paragraphs 1 and 2."
+    ],
+    "source_ref": "Article 25(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Representative Appointment",
+    "description": "The contract contains writings regarding the formal designation of an EU representative.",
+    "criteria": [
+      "Provisions designating a representative located in the European Union.",
+      "Writings requiring the representative designation in written form.",
+      "Clauses specifying representative establishment in a Member State of affected data subjects."
+    ],
+    "source_ref": "Article 27(1), (3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Representative Communication Authority",
+    "description": "The contract contains writings regarding the authority of the representative to be addressed on data protection compliance matters.",
+    "criteria": [
+      "Provisions authorizing the representative to receive communications from supervisory authorities.",
+      "Provisions authorizing the representative to receive inquiries from data subjects.",
+      "Provisions mandating that the representative may be addressed instead of, or in addition to, the controller or processor."
+    ],
+    "source_ref": "Article 27(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Representative Legal Standing",
+    "description": "The contract contains writings clarifying that designating a representative does not shield the controller or processor from direct legal action.",
+    "criteria": [
+      "Clauses confirming that designating a representative does not preclude legal actions against the controller directly.",
+      "Clauses confirming that designating a representative does not preclude legal actions against the processor directly."
+    ],
+    "source_ref": "Article 27(5)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Representative Designation Exemption Grounds",
+    "description": "The contract contains writings addressing the statutory grounds under which the obligation to designate an EU representative does not apply.",
+    "criteria": [
+      "Provisions citing occasional processing as grounds for exemption from designating a representative.",
+      "Provisions citing the absence of large-scale special-category or criminal-conviction data processing as grounds for exemption.",
+      "Provisions citing a low risk to data subjects' rights and freedoms, assessed by the nature, context, scope and purposes of processing, as grounds for exemption.",
+      "Provisions citing the entity's status as a public authority or body as grounds for exemption from designating a representative."
+    ],
+    "source_ref": "Article 27(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Processing Scope Specifications",
+    "description": "The contract contains writings defining processing parameters.",
+    "criteria": [
+      "Specification of the subject-matter of the processing.",
+      "Specification of the duration of the processing.",
+      "Specification of the nature of the processing.",
+      "Specification of the purpose(s) of the processing.",
+      "Identification of the type of personal data and categories of data subjects.",
+      "Specification of the obligations and rights of the controller."
+    ],
+    "source_ref": "Article 28(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Documented Instructions Compliance",
+    "description": "The contract contains writings governing processor adherence to controller directives.",
+    "criteria": [
+      "Obligation to process personal data solely on documented controller instructions.",
+      "Provisions governing international personal data transfers.",
+      "Notification procedures when statutory law requires processing contrary to instructions."
+    ],
+    "source_ref": "Article 28(3)(a)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Personnel Confidentiality Commitments",
+    "description": "The contract contains writings concerning authorized personnel confidentiality obligations.",
+    "criteria": [
+      "Requirement for authorized personnel contractual confidentiality commitments.",
+      "Verification of statutory confidentiality duties for processing personnel."
+    ],
+    "source_ref": "Article 28(3)(b)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Subcontractor Engagement Controls",
+    "description": "The contract contains writings governing third-party processor subcontracting.",
+    "criteria": [
+      "Requirement for prior written controller authorization.",
+      "Advance notification of intended sub-processor replacements.",
+      "Mechanism enabling controller objections to sub-processor modifications.",
+      "Flow-down of equivalent data protection contractual obligations.",
+      "Direct processor liability for sub-processor defaults."
+    ],
+    "source_ref": "Article 28",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Subject Requests Support",
+    "description": "The contract contains writings outlining processor support for individual privacy rights.",
+    "criteria": [
+      "Implementation of technical measures facilitating data subject rights fulfillment.",
+      "Implementation of organisational measures supporting controller responses to individuals.",
+      "Assistance is scoped to what is reasonably possible, taking into account the nature of the processing."
+    ],
+    "source_ref": "Article 28(3)(e)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Post-Termination Data Disposition",
+    "description": "The contract contains writings governing data status following service conclusion.",
+    "criteria": [
+      "Processor obligations regarding complete personal data deletion.",
+      "Procedures governing personal data return to the controller.",
+      "Protocols for deleting existing secondary data copies.",
+      "Exception permitting retention of personal data where required by Union or Member State law."
+    ],
+    "source_ref": "Article 28(3)(g)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Audit Verification Entitlements",
+    "description": "The contract contains writings governing controller audit rights.",
+    "criteria": [
+      "Mandatory provision of compliance demonstration information.",
+      "Allowance for controller-conducted audits.",
+      "Allowance for mandated third-party inspections.",
+      "Immediate notification when instructions infringe legal regulations."
+    ],
+    "source_ref": "Article 28(3)(h)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Sufficient Guarantees Assurance",
+    "description": "The contract contains writings evidencing the processor's sufficient guarantees to implement appropriate technical and organisational measures.",
+    "criteria": [
+      "Processor representation of providing sufficient technical and organisational guarantees to meet regulatory requirements.",
+      "Adherence to an approved code of conduct as an element demonstrating sufficient guarantees.",
+      "Adherence to an approved certification mechanism as an element demonstrating sufficient guarantees."
+    ],
+    "source_ref": "Article 28(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Controller Instruction Adherence",
+    "description": "The contract contains writings governing personal data processing strictly upon documented instructions from the controller.",
+    "criteria": [
+      "Clauses limiting the processor's own data processing strictly to instructions received from the controller.",
+      "Clauses binding personnel or agents acting under the processor's authority who access personal data to the same instruction-only limitation.",
+      "Clauses binding personnel or agents acting under the controller's own authority (not the processor's) who access personal data to the same instruction-only limitation."
+    ],
+    "source_ref": "Article 29",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Statutory Compliance Exceptions",
+    "description": "The contract contains writings governing personal data processing mandated by external legislation.",
+    "criteria": [
+      "Clauses recognizing processing required by Union law.",
+      "Clauses recognizing processing required by Member State law.",
+      "Provisions governing processing duties superseding controller instructions."
+    ],
+    "source_ref": "Article 29",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Processor Identity Recordkeeping",
+    "description": "The contract contains provisions regarding identification details maintained within processing logs.",
+    "criteria": [
+      "Documentation specifying processor identity details.",
+      "Documentation specifying controller contact details.",
+      "Documentation identifying designated data protection officers.",
+      "Identification of the controller's or processor's representative, where applicable."
+    ],
+    "source_ref": "Article 30(2)(a)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Processing Category Documentation",
+    "description": "The contract contains provisions regarding tracking operations performed on customer data.",
+    "criteria": [
+      "Specification of the categories of processing carried out on behalf of the controller.",
+      "Attribution of the documented processing categories to the specific controller for whom they are carried out."
+    ],
+    "source_ref": "Article 30(2)(b)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Cross-Border Transfer Documentation",
+    "description": "The contract contains provisions regarding recording extraterritorial personal data transmissions.",
+    "criteria": [
+      "Identification of destination third countries.",
+      "Identification of recipient international entities.",
+      "Documentation of suitable transfer safeguards."
+    ],
+    "source_ref": "Article 30(2)(c)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Technical Security Documentation",
+    "description": "The contract contains provisions regarding descriptive logs of implemented safeguard measures.",
+    "criteria": [
+      "Descriptive logs of implemented technical security measures.",
+      "Descriptive logs of implemented organisational security measures."
+    ],
+    "source_ref": "Article 30(2)(d)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Record Medium Specifications",
+    "description": "The contract contains provisions regarding the medium used for maintaining processing activity logs.",
+    "criteria": [
+      "Maintenance of activity records in written format.",
+      "Recognition of electronic form as satisfying the written-record requirement."
+    ],
+    "source_ref": "Article 30(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Supervisory Authority Record Production",
+    "description": "The contract contains provisions regarding delivering activity records to regulatory bodies.",
+    "criteria": [
+      "Obligation to make processing records available to the supervisory authority upon request.",
+      "Extension of the record-availability obligation to the controller's or processor's representative, where applicable."
+    ],
+    "source_ref": "Article 30(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Supervisory Authority Cooperation",
+    "description": "The contract contains writings regarding processor cooperation with supervisory authorities.",
+    "criteria": [
+      "Provisions obligating the processor to cooperate with supervisory authorities.",
+      "Protocols governing processor responses to supervisory authority requests.",
+      "Clauses facilitating supervisory authority task performance.",
+      "Obligations binding designated processor representatives to authority inquiries."
+    ],
+    "source_ref": "Article 31",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Technical Obfuscation Safeguards",
+    "description": "The contract contains writings regarding baseline technical data protection controls.",
+    "criteria": [
+      "Provisions regarding personal data pseudonymisation.",
+      "Provisions regarding personal data encryption at rest.",
+      "Provisions regarding personal data encryption in transit."
+    ],
+    "source_ref": "Article 32(1)(a)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "System Resilience Attributes",
+    "description": "The contract contains writings regarding baseline operational security metrics.",
+    "criteria": [
+      "Provisions ensuring ongoing processing confidentiality.",
+      "Provisions ensuring ongoing processing integrity.",
+      "Provisions ensuring continuous processing availability.",
+      "Provisions ensuring processing system resilience."
+    ],
+    "source_ref": "Article 32(1)(b)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Incident Recovery Capabilities",
+    "description": "The contract contains writings regarding service restoration following adverse disruptions.",
+    "criteria": [
+      "Measures restoring personal data availability following physical incidents.",
+      "Measures restoring personal data availability following technical incidents.",
+      "Target timelines for restoring personal data access."
+    ],
+    "source_ref": "Article 32(1)(c)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Security Effectiveness Assurance",
+    "description": "The contract contains writings regarding recurring verification of protective measures' effectiveness.",
+    "criteria": [
+      "A defined process exists for testing, assessing, or evaluating the effectiveness of security measures.",
+      "The verification process covers both technical and organisational measures.",
+      "The verification process is performed on a regular, recurring basis."
+    ],
+    "source_ref": "Article 32(1)(d)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Processing Risk Management",
+    "description": "The contract contains writings addressing specific security hazard categories.",
+    "criteria": [
+      "Safeguards preventing accidental or unlawful destruction of personal data.",
+      "Safeguards preventing loss of personal data.",
+      "Measures preventing unauthorized personal data alteration.",
+      "Protocols preventing unlawful personal data disclosure.",
+      "Mechanisms preventing unauthorized personal data access."
+    ],
+    "source_ref": "Article 32(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Processor Breach Notification Timing",
+    "description": "The contract contains provisions regarding processor notification to the controller upon detecting security incidents.",
+    "criteria": [
+      "Requirement to notify the controller after becoming aware of a personal data breach.",
+      "Timeline specifying notification occurs without undue delay."
+    ],
+    "source_ref": "Article 33(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Breach Details Disclosure",
+    "description": "The contract contains provisions regarding specific details supplied regarding an incident.",
+    "criteria": [
+      "Details describing the nature of the personal data breach.",
+      "Estimates of affected data subject categories.",
+      "Estimates of affected data subject counts.",
+      "Categories of personal data records affected.",
+      "Estimates of affected personal data record counts."
+    ],
+    "source_ref": "Article 33(3)(a)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Contact Point Designation",
+    "description": "The contract contains provisions designating communication channels for security incidents.",
+    "criteria": [
+      "Designation of a specific contact point for incident inquiries.",
+      "Contact details for the designated incident responder.",
+      "Identification details for the data protection officer."
+    ],
+    "source_ref": "Article 33(3)(b)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Breach Impact Assessment",
+    "description": "The contract contains provisions regarding the evaluation of breach ramifications.",
+    "criteria": [
+      "Descriptions of likely consequences resulting from the breach.",
+      "Explanations of potential risks to individuals."
+    ],
+    "source_ref": "Article 33(3)(c)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Mitigation Measure Reporting",
+    "description": "The contract contains provisions regarding corrective actions taken in response to a breach.",
+    "criteria": [
+      "Descriptions of measures implemented to address the breach.",
+      "Proposals for actions to mitigate adverse effects."
+    ],
+    "source_ref": "Article 33(3)(d)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Phased Breach Reporting",
+    "description": "The contract contains provisions allowing staggered disclosures during complex investigations.",
+    "criteria": [
+      "Allowance for incremental delivery of incident information.",
+      "Commitment to furnish updates without undue further delay.",
+      "Procedures for communicating subsequent discoveries."
+    ],
+    "source_ref": "Article 33(4)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Breach Documentation Support",
+    "description": "The contract contains provisions regarding recording incident evidence.",
+    "criteria": [
+      "Obligation to log facts relating to the personal data breach.",
+      "Obligation to record effects of the incident.",
+      "Obligation to maintain records of remedial actions taken.",
+      "Documentation maintained in a form that enables the supervisory authority to verify compliance."
+    ],
+    "source_ref": "Article 33(5)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Direct Data Subject Breach Notification",
+    "description": "Contractual writings addressing notifications to affected natural persons following an incident.",
+    "criteria": [
+      "Terms defining the high-risk threshold that triggers direct notification to data subjects.",
+      "Commitments ensuring notification occurs without undue delay.",
+      "Clear assignment of the data subject notification obligation to the controller."
+    ],
+    "source_ref": "Article 34(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Data Subject Communication Content",
+    "description": "Contractual terms detailing information elements included within subject breach notices.",
+    "criteria": [
+      "Requirements mandating clear, plain language.",
+      "Inclusion of the nature of the security incident.",
+      "Identification of designated data protection contact points.",
+      "Descriptions of likely consequences of the incident.",
+      "Explanations of remedial measures taken."
+    ],
+    "source_ref": "Article 34(2)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Breach Notification Exemption Conditions",
+    "description": "Writings governing exceptions eliminating the need for direct subject notification.",
+    "criteria": [
+      "Documentation of technical and organisational protection measures, such as encryption, rendering the affected data unintelligible to unauthorised parties.",
+      "Implementation of subsequent measures ensuring the high risk is no longer likely to materialise.",
+      "Evaluation protocols for determining disproportionate notification effort.",
+      "Requirement for an alternative public communication or equally effective measure when direct notification is exempted for disproportionate effort."
+    ],
+    "source_ref": "Article 34(3)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "International Data Transfer Conditions",
+    "description": "The contract contains provisions addressing conditions for personal data transfers outside the European Union.",
+    "criteria": [
+      "Provisions requiring that transfers of personal data to a third country comply with the conditions laid down in Chapter V.",
+      "Provisions requiring that transfers of personal data to an international organisation comply with the conditions laid down in Chapter V.",
+      "Confirmation that the Chapter V conditions bind the processor as well as the controller."
+    ],
+    "source_ref": "Article 44",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Onward Transfer Governance",
+    "description": "The contract contains provisions regulating downstream transfers across jurisdictions.",
+    "criteria": [
+      "Provisions requiring that onward transfers of the data from a third-country recipient comply with the Chapter V conditions.",
+      "Provisions requiring that onward transfers of the data from an international-organisation recipient comply with the Chapter V conditions.",
+      "Clauses restricting onward transfers to further third countries or international organisations not authorised under the Chapter V conditions."
+    ],
+    "source_ref": "Article 44",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Adequacy Decision Transfer Basis",
+    "description": "The contract contains writings regarding data transfers based on European Commission adequacy findings.",
+    "criteria": [
+      "Identification of recipient destinations recognized by adequacy decisions.",
+      "Statements confirming transfers require no specific supervisory authorization.",
+      "Documentation establishing the geographic scope of recipient jurisdictions."
+    ],
+    "source_ref": "Article 45(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Adequacy Decision Invalidation Response",
+    "description": "The contract contains writings regarding changes to the adequacy status of destination territories.",
+    "criteria": [
+      "Procedures triggered by the formal repeal of an adequacy decision.",
+      "Protocols activated upon European Commission suspension of destination adequacy.",
+      "Notification obligations following alterations in adequacy status."
+    ],
+    "source_ref": "Article 45(5)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Third Country Transfer Safeguards",
+    "description": "The contract contains writings regarding required transfer safeguards.",
+    "criteria": [
+      "Provisions establishing enforceable data subject rights.",
+      "Provisions establishing effective legal remedies for data subjects."
+    ],
+    "source_ref": "Article 46(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Standard Data Protection Clauses",
+    "description": "The contract contains writings regarding standard transfer clauses.",
+    "criteria": [
+      "Provisions incorporating standard data protection clauses adopted by the Commission.",
+      "Provisions incorporating standard data protection clauses adopted by a supervisory authority and approved by the Commission."
+    ],
+    "source_ref": "Article 46(2)(c)-(d)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Ad Hoc Contractual Safeguards",
+    "description": "The contract contains writings regarding individually authorized contractual clauses.",
+    "criteria": [
+      "Provisions incorporating supervisory authority authorized contractual clauses.",
+      "Terms governing recipient obligations in third countries.",
+      "Clauses establishing recipient obligations in international organisations."
+    ],
+    "source_ref": "Article 46(3)(a)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Code of Conduct and Certification Transfer Safeguards",
+    "description": "The contract contains writings regarding code of conduct or certification-based transfer safeguards.",
+    "criteria": [
+      "Provisions incorporating an approved code of conduct pursuant to Article 40 as a transfer safeguard.",
+      "Provisions incorporating an approved certification mechanism pursuant to Article 42 as a transfer safeguard.",
+      "Binding and enforceable commitments to apply the safeguards, including as regards data subjects' rights."
+    ],
+    "source_ref": "Article 46(2)(e)-(f)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Group Entity Identification",
+    "description": "The contract defines structural specifications for the corporate group.",
+    "criteria": [
+      "Provisions specifying the corporate group structure.",
+      "Provisions detailing contact information for each group member.",
+      "Provisions identifying individual entities bound by the rules."
+    ],
+    "source_ref": "Article 47(2)(a)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Transfer Scope Specifications",
+    "description": "The contract details the scope of international data transfers.",
+    "criteria": [
+      "Specifications of personal data categories transferred.",
+      "Specifications of processing purposes.",
+      "Identification of affected recipient third countries.",
+      "Identification of affected data subject types."
+    ],
+    "source_ref": "Article 47(2)(b)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Intra-Group Liability Allocation",
+    "description": "The contract assigns liability for non-EU member rule breaches.",
+    "criteria": [
+      "Provisions establishing liability for EU-established entities.",
+      "Provisions covering damages caused by non-EU group members.",
+      "Provisions outlining conditions for liability exemption."
+    ],
+    "source_ref": "Article 47(2)(f)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Compliance Auditing Mechanisms",
+    "description": "The contract details mechanisms to verify adherence to binding rules.",
+    "criteria": [
+      "Provisions mandating periodic data protection audits.",
+      "Provisions requiring corrective action plans for detected issues.",
+      "Provisions ensuring audit results are made available to the competent supervisory authority upon request."
+    ],
+    "source_ref": "Article 47(2)(j)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Foreign Legal Conflict Notifications",
+    "description": "The contract specifies notification mechanisms for foreign legal mandates.",
+    "criteria": [
+      "Provisions requiring identification of third-country legal requirements likely to have a substantial adverse effect on the guarantees provided by the binding corporate rules.",
+      "Provisions establishing a mechanism for reporting such legal requirements to the competent supervisory authority."
+    ],
+    "source_ref": "Article 47(2)(m)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Enforceable Data Subject Rights and Redress",
+    "description": "The contract establishes data subjects' enforceable rights and redress mechanisms under the binding corporate rules.",
+    "criteria": [
+      "Provisions expressly conferring enforceable rights on data subjects with regard to processing under the binding corporate rules.",
+      "Provisions enabling data subjects to lodge complaints with the competent supervisory authority or before competent courts for breaches of the binding corporate rules.",
+      "Provisions establishing data subjects' right to redress and, where appropriate, compensation for damage caused by a breach of the binding corporate rules."
+    ],
+    "source_ref": "Article 47(2)(e)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Personnel Data Protection Training",
+    "description": "The contract requires data protection training for personnel with access to personal data.",
+    "criteria": [
+      "Provisions requiring data protection training for personnel with permanent access to personal data.",
+      "Provisions requiring data protection training for personnel with regular access to personal data.",
+      "Provisions requiring the training to be appropriate to personnel's role and level of data access."
+    ],
+    "source_ref": "Article 47(2)(n)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Third-Country Legal Order Handling",
+    "description": "The contract contains writings addressing whether and how foreign court judgments or administrative decisions demanding personal data transfer or disclosure will be recognised or enforced.",
+    "criteria": [
+      "Default non-recognition or non-enforceability of foreign judgments and administrative decisions compelling transfer or disclosure of personal data, absent a qualifying legal basis.",
+      "Recognition or enforcement is conditioned on an international agreement (e.g. a mutual legal assistance treaty) in force between the requesting third country and the Union or a Member State.",
+      "Preservation of other Chapter V transfer grounds (e.g. adequacy decisions, appropriate safeguards, derogations) as independent bases for transfer unaffected by this provision."
+    ],
+    "source_ref": "Article 48",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Consent-Based Transfer Derogations",
+    "description": "The contract contains provisions regarding international transfers executing under explicit data subject consent.",
+    "criteria": [
+      "Provisions addressing explicit data subject consent for specific transfers.",
+      "Clauses requiring communication of risks stemming from lacking adequacy decisions.",
+      "Clauses requiring communication of risks stemming from missing safeguards."
+    ],
+    "source_ref": "Article 49(1)(a)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Contract Performance Derogations",
+    "description": "The contract contains provisions governing international transfers strictly necessary for contractual execution.",
+    "criteria": [
+      "Provisions addressing transfers necessary for performing contracts with data subjects.",
+      "Provisions addressing transfers executing pre-contractual measures requested by data subjects.",
+      "Provisions addressing transfers executing third-party contracts concluded in data subjects' interests."
+    ],
+    "source_ref": "Article 49(1)(b)-(c)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Other Statutory Transfer Derogations",
+    "description": "The contract contains provisions invoking other statutory derogations for international transfers absent adequacy or safeguards.",
+    "criteria": [
+      "Provisions addressing transfers necessary for important reasons of public interest.",
+      "Provisions addressing transfers necessary for the establishment, exercise or defence of legal claims.",
+      "Provisions addressing transfers necessary to protect the vital interests of the data subject or other persons unable to consent.",
+      "Provisions addressing transfers made from a public register open to consultation."
+    ],
+    "source_ref": "Article 49(1)(d)-(g)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Legitimate Interest Transfer Exceptions",
+    "description": "The contract contains provisions governing exceptional non-repetitive transfers based on compelling legitimate interests.",
+    "criteria": [
+      "Clauses restricting qualifying transfers to non-repetitive occurrences.",
+      "Clauses limiting qualifying transfers to limited numbers of data subjects.",
+      "Clauses confirming compelling legitimate interests are not overridden by the data subject's interests, rights or freedoms.",
+      "Terms requiring controller assessment of transfer circumstances.",
+      "Provisions requiring suitable safeguards for transferred personal data."
+    ],
+    "source_ref": "Article 49(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Derogation Transfer Notifications",
+    "description": "The contract contains terms regarding notification protocols for exceptional legitimate interest transfers.",
+    "criteria": [
+      "Clauses requiring controller notification to supervisory authorities concerning exceptional transfers.",
+      "Clauses requiring controller notification to affected data subjects concerning exceptional transfers.",
+      "Clauses requiring notification of specific compelling legitimate interests pursued."
+    ],
+    "source_ref": "Article 49(1)",
+    "regulation": "GDPR"
+  },
+  {
+    "title": "Transfer Derogation Documentation",
+    "description": "The contract contains specifications regarding documentation of transfer derogation assessments.",
+    "criteria": [
+      "Terms requiring written records of transfer circumstance assessments.",
+      "Terms requiring written records of implemented suitable transfer safeguards.",
+      "Clauses requiring derogation records inclusion within Article 30 registers."
+    ],
+    "source_ref": "Article 49(6)",
+    "regulation": "GDPR"
+  }
+]

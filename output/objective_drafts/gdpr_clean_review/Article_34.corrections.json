@@ -1,0 +1,40 @@
+{
+  "objectives": [
+    {
+      "title": "Direct Data Subject Breach Notification",
+      "description": "Contractual writings addressing notifications to affected natural persons following an incident.",
+      "criteria": [
+        "Terms defining the high-risk threshold that triggers direct notification to data subjects.",
+        "Commitments ensuring notification occurs without undue delay.",
+        "Clear assignment of the data subject notification obligation to the controller."
+      ],
+      "source_ref": "Article 34(1)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Data Subject Communication Content",
+      "description": "Contractual terms detailing information elements included within subject breach notices.",
+      "criteria": [
+        "Requirements mandating clear, plain language.",
+        "Inclusion of the nature of the security incident.",
+        "Identification of designated data protection contact points.",
+        "Descriptions of likely consequences of the incident.",
+        "Explanations of remedial measures taken."
+      ],
+      "source_ref": "Article 34(2)",
+      "regulation": "GDPR"
+    },
+    {
+      "title": "Breach Notification Exemption Conditions",
+      "description": "Writings governing exceptions eliminating the need for direct subject notification.",
+      "criteria": [
+        "Documentation of technical and organisational protection measures, such as encryption, rendering the affected data unintelligible to unauthorised parties.",
+        "Implementation of subsequent measures ensuring the high risk is no longer likely to materialise.",
+        "Evaluation protocols for determining disproportionate notification effort.",
+        "Requirement for an alternative public communication or equally effective measure when direct notification is exempted for disproportionate effort."
+      ],
+      "source_ref": "Article 34(3)",
+      "regulation": "GDPR"
+    }
+  ]
+}
