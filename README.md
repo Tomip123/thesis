@@ -1,5 +1,7 @@
 # Molnbyte och regelverkens täckning i IaaS-avtal: en empirisk analys av hur standardvillkor tar upp dataförordningen, GDPR och NIS2
 
+Data och kod till magisteravhandlingen: leverantörernas avtalsdokument (`data/`), regelverkens text (`eu_regulation/`), kodboken och kodningen med granskningsbeslut (`output/objective_drafts/`, `output/audit_drafts/`) och koden som tar fram dem. I granskningsmapparna (`*_review/`) är varje `.md` modellens bedömning och varje `.corrections.json` granskningsbeslutet.
+
 ## Snabbstart
 
 ```bash
@@ -7,6 +9,16 @@ pip install -r requirements.txt
 python scripts/build_reviews_db.py
 streamlit run app.py
 ```
+
+## API-nyckel (.env)
+
+Steg 3, 4 och 7 anropar språkmodellen via OpenRouter och kräver en nyckel i filen `.env` i repots rot:
+
+```
+OPENROUTER_API_KEY=din-nyckel
+```
+
+Databasen och granskningsvyn kräver ingen nyckel. `.env` checkas aldrig in.
 
 ## 1. Konvertera dokumenten till Markdown
 
